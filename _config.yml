@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 name: Ed Johnson-Williams
 markdown: kramdown
+paginate: 5
