@@ -1,7 +1,3 @@
 ---
-layout: post
-title: Tim Farron resigns: liberalism and Christianity
-date: '2017-06-14'
+date: '2017-06-15T09:01:21.820+00:00'
 ---
-
-testing testing
