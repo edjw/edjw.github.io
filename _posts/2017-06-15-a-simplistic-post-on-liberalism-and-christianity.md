@@ -1,10 +1,6 @@
 ---
-layout: post 
-category: 
+layout: post
 title: "A simplistic post on liberalism and Christianity"
-tagline: 
-tags : [] 
-published: false
 ---
 1. I'm a straight, Christian man who is liberal - both politically and theologically.
 
