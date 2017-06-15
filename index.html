@@ -2,9 +2,13 @@
 layout: default
 title: Ed Johnson-Williams
 ---
-
-<ul class="posts">
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+{% for post in site.posts %}
+<div class="columns">
+<div class="column is-4-desktop">
+	<h2><span>{{ post.date | date_to_string }}</span></h2>
+</div>
+<div class="column">
+ <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+ </div>
+</div>
+{% endfor %}
