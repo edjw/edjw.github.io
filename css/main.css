@@ -7,6 +7,12 @@ body {
     body {
         width: 95%
     }
+    .column.post-date {
+        padding-bottom: 0;
+    }
+    .column.post-title {
+        padding-top: 0;
+    }
 }
 
 footer {

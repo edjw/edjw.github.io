@@ -4,10 +4,10 @@ title: Ed Johnson-Williams
 ---
 {% for post in site.posts %}
 <div class="columns">
-<div class="column is-4-desktop">
+<div class="column is-3-desktop is-3-tablet post-date">
 	<h2><span>{{ post.date | date_to_string }}</span></h2>
 </div>
-<div class="column">
+<div class="column post-title">
  <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
  </div>
 </div>
