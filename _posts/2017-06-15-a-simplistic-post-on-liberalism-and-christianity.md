@@ -3,15 +3,13 @@ layout: post
 title: A simplistic post on liberalism and Christianity
 date: '2017-06-15T00:00:00.000+00:00'
 ---
-
-
 1. I'm a straight, Christian man who is liberal - both politically and theologically.
 
 1. I disagree with Tim Farron's apparent view that having an abortion or gay sex is a sin
 
 1. I also disagree with Tim Farron's comments that being a liberal leader and a "faithful Christian" is irreconcilable. There are lots of liberal Christians.
 
-1. It*helps* to be a Christian who embraces people of all sexualities and is pro-choice if you want to be a liberal leader.
+1. It *helps* to be a Christian who embraces people of all sexualities and is pro-choice if you want to be a liberal leader.
 
 1. I do however think that you can hold personal views that are illiberal and still be a liberal politician so long as you don't impose your personal views on others.
 
