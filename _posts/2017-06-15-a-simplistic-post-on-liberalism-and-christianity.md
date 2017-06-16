@@ -30,4 +30,3 @@ date: '2017-06-15T00:00:00.000+00:00'
 1. I would probably react to this differently if I was gay and I need to think about this more.
 
 Reading this [Twitter thread](https://twitter.com/huwlemmey/status/875254164909109248) by Huw Lemmey is the closest I've got to changing my mind on this.
-
