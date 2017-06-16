@@ -16,4 +16,5 @@ date: '2017-06-15T00:00:00.000+00:00'
 1. But Tim Farron has consistently voted for liberal legislation on abortion and gay rights. This would be *a bit* like a Holocaust denier consistently voting to fund museums about the Holocaust. Stress on *a bit like*. It's not actually the same. Obviously.
 1. I would probably react to this differently if I was gay and I need to think about this more.
 
+
 Reading this [Twitter thread](https://twitter.com/huwlemmey/status/875254164909109248) by Huw Lemmey is the closest I've got to changing my mind on this.
