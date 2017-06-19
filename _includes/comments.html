@@ -1,4 +1,9 @@
-<script>
+<div id="gh-comments">
+    <br/><br/>
+    <h6>COMMENTS</h6>
+    <div id="gh-comments-list"></div>
+    <a href="javascript:void(0)" id="gh-load-comments" class="btn" style="display:none">Load more comments</a>
+</div><script>
 var url = "https://github.com/edjw/edjw.github.io/issues/{{ page.commentid }}"
 var api_url = "https://api.github.com/repos/edjw/edjw.github.io/issues/{{ page.commentid }}/comments"
 
