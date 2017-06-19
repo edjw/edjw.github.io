@@ -1,7 +1,7 @@
-<div id="gh-comments">
+<div id="gh-comments" class="title is-4 has-text-centered>
     <br/><br/>
     <h6>COMMENTS</h6>
-    <div id="gh-comments-list"></div>
+    <div id="gh-comments-list" class="has-text-centered"></div>
     <a href="javascript:void(0)" id="gh-load-comments" class="button is-info" style="display:none">Load more comments</a>
 </div>
 
@@ -61,7 +61,7 @@ function DoGithubComments(comment_id, page_id)
 
                     var date = new Date(comment.created_at);
 
-                    var t = "<div id='gh-comment'>";
+                    var t = "<div id='gh-comment' class='has-text-left'>";
                     t += "<img src='" + comment.user.avatar_url + "' width='24px'>";
                     t += "<b><a href='" + comment.user.html_url + "'>" + comment.user.login + "</a></b>";
                     t += " posted at ";
