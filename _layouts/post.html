@@ -5,4 +5,5 @@ layout: default
   <h2><span class="title">{{ page.title }}</span><br><span class="subtitle">{{ page.date | date_to_string }}</span></h2>
 <section class="section post-content">
   {{ content }}
+  {% include comments.html %}
 </section>
