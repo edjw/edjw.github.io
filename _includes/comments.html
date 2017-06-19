@@ -1,6 +1,6 @@
 <script>
-var url = "https://github.com/edjw/edjw.github.io/issues/" + {{ page.commentid }}
-var api_url = "https://api.github.com/repos/edjw/edjw.github.io/issues/" + {{ page.commentid }} + "/comments"
+var url = "https://github.com/edjw/edjw.github.io/issues/{{ page.commentid }}"
+var api_url = "https://api.github.com/repos/edjw/edjw.github.io/issues/{{ page.commentid }}/comments"
 
 $(document).ready(function () {
     $.ajax(api_url, {
