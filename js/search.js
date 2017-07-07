@@ -73,7 +73,7 @@
 		for(var i=0, type, href; i<links.length; i++) {
 			type = links[i].getAttribute("type");
 			href = links[i].getAttribute("href");
-			if(type && type.match(/rss/i)) {
+			if(type && type.match(/atom+xml)) {
 				rssFilesFound++;
 				addRssFile(href);
 			}
