@@ -12,7 +12,7 @@ Take Germany. They don't need statues of Hitler to remember Germany's history ev
 
 They have memorials to the victims of Nazi Germany instead.
 
-People in Germany remember Germany's history without having monuments to the people responsible for the Holocaust.
+People in Germany remember Germany's history without having monuments of the people responsible for the Holocaust.
 
 America can remember what happened before and during the Civil War without having<span style="font-size: 1rem;">&nbsp;statues of the leaders of the Confederacy.</span>
 
