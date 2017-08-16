@@ -8,8 +8,12 @@ Donald Trump says that removing statues to Confederate generals is "<a href="htt
 
 He's wrong.
 
-You don't need statues of the leaders of the Confederacy to remember America's history.
+You don't need statues of the leaders of the Confederacy to remember what happened in America's history.
 
-You can have memorials to its victims instead.
+You can have memorials to victims of slavery and those who died in the Civil War instead.
 
-Like in Germany. They don't need statues of Hitler even though Hitler is part of German history. They have memorials to the victims of Nazi Germany.
+Take Germany. They don't need statues of Hitler even though Hitler is part of German history.
+
+They have memorials to the victims of Nazi Germany.
+
+People in Germany remember Germany's history without having monuments to the people responsible for the Holocaust.
