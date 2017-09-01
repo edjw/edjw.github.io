@@ -1,0 +1,12 @@
+---
+pages:
+- _posts/2017-06-18-a-simplistic-post-on-brexit-utopianism.md
+hide_body: false
+fields:
+- name: date
+  type: datetime
+  label: Date
+- name: title
+  type: text
+  label: Title
+  config: {}
