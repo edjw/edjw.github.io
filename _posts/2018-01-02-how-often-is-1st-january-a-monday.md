@@ -4,11 +4,11 @@ date: 2018-01-02 00:00:00 +0000
 ---
 Yesterday, 1st January 2018 was a Monday. In my mind, Monday is the first day of the week. Some people think it's Sunday. I don't understand those people.
 
-Anyway, it made me wonder...How often the first day of the week is the first day of the year? And how many years will we have to wait until the first day of the year is a Monday again?
+Anyway, it made me wonder...How often has the first day of the week been the first day of the year? And how many years will we have to wait until the first day of the year is a Monday again?
 
-I wrote some [bad, repetitive Python code](#that-bad-repetitive-python) to work this out. I also some made bad, repetitive use of the [Plotly Python Library](https://plot.ly/python/) to make some bar charts.
+I wrote some [bad, repetitive Python code](#that-bad-repetitive-python) to work this out. I also made some bad, repetitive use of the [Plotly Python Library](https://plot.ly/python/) to make some bar charts.
 
-# From the year 1AD to 2018
+# From the year 1 AD to 2018
 
 | Day of week | Times 1st Jan has been X day | Avg years to wait |
 | --- | :---: | :---: |
@@ -22,9 +22,19 @@ I wrote some [bad, repetitive Python code](#that-bad-repetitive-python) to work 
 
 ![](/uploads/2018/01/02/first_jan_mon_2018.png)![](/uploads/2018/01/02/mean_wait_2018.png)
 
-# From the year 1AD to 9999
+**The next time 1st January is a Monday is 2024. The previous time was 2007.**
 
-Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9999 is the maximum year Python has in its standard library.) The results are almost exactly the same.
+There are three groupings of frequency of 1st January being X day of the week
+
+1. **Tuesdays (293 since the year 1 AD), Fridays (292) and Sundays (293).**
+2. **Wednesdays (287) and Thursdays (288)**
+3. **Mondays (283) and Saturdays (282).**
+
+Somebody (else) probably has an explanation for why this happens.
+
+# From the year 1 AD to 9999
+
+Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9999 is the maximum year Python has in its standard library.) The results are as good as exactly the same.
 
 | Day of week | Times 1st Jan has been X day | Avg years to wait |
 | --- | :---: | :---: |
@@ -41,6 +51,8 @@ Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9
 ![](/uploads/2018/01/02/mean_wait_9999.png)
 
 # That bad, repetitive Python
+
+In case you want to work with this here's that bad, repetitive code I used.
 
     from datetime import datetime
     from statistics import mean
