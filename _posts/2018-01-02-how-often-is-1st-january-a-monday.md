@@ -10,8 +10,7 @@ I wrote some [bad, repetitive Python code](#that-bad-repetitive-python) to work 
 
 # From the year 1AD to 2018
 
-
-|   Day of week   |   Times 1st Jan has been X day   |   Avg years to wait   |
+| Day of week | Times 1st Jan has been X day | Avg years to wait |
 | --- | :---: | :---: |
 | Monday | 283 | 7.15 |
 | Tuesday | 293 | 6.89 |
@@ -25,10 +24,9 @@ I wrote some [bad, repetitive Python code](#that-bad-repetitive-python) to work 
 
 # From the year 1AD to 9999
 
-
 Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9999 is the maximum year Python has in its standard library.) The results are almost exactly the same.
 
-|   Day of week   |   Times 1st Jan has been X day   |   Avg years to wait   |
+| Day of week | Times 1st Jan has been X day | Avg years to wait |
 | --- | :---: | :---: |
 | Monday | 1400 | 7.14 |
 | Tuesday | 1450 | 6.89 |
@@ -43,7 +41,6 @@ Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9
 ![](/uploads/2018/01/02/mean_wait_9999.png)
 
 # That bad, repetitive Python
-
 
     from datetime import datetime
     from statistics import mean
