@@ -6,9 +6,9 @@ Yesterday, 1st January 2018 was a Monday. In my mind, Monday is the first day of
 
 Anyway, it made me wonder...How often the first day of the week is the first day of the year? And how many years will we have to wait until the first day of the year is a Monday again?
 
-I wrote some bad, repetitive Python code to work this out. I also some made bad, repetitive use of the [Plotly Python Library](https://plot.ly/python/) to make some bar charts.
+I wrote some [bad, repetitive Python code](#that-bad-repetitive-python) to work this out. I also some made bad, repetitive use of the [Plotly Python Library](https://plot.ly/python/) to make some bar charts.
 
-## From the year 1AD to 2018
+# From the year 1AD to 2018
 
 | Day of week | Number of times 1st Jan has been X day | Avg years to wait |
 | --- | --- | --- |
@@ -22,7 +22,7 @@ I wrote some bad, repetitive Python code to work this out. I also some made bad,
 
 ![](/uploads/2018/01/02/first_jan_mon_2018.png)![](/uploads/2018/01/02/mean_wait_2018.png)
 
-## From the year 1AD to 9999
+# From the year 1AD to 9999
 
 Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9999 is the maximum year Python has in its standard library.) The results are almost exactly the same.
 
@@ -40,7 +40,7 @@ Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9
 
 ![](/uploads/2018/01/02/mean_wait_9999.png)
 
-## That bad, repetitive Python
+# That bad, repetitive Python
 
     from datetime import datetime
     from statistics import mean
