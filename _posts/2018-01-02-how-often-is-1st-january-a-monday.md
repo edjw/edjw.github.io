@@ -2,7 +2,7 @@
 title: How often is 1st January a Monday?
 date: 2018-01-02 00:00:00 +0000
 ---
-\*\*Answer...less often than every other day except Saturday. I have no idea what. \*\*
+**Answer...less often than every other day except Saturday. I have no idea why.**
 
 Yesterday, 1st January 2018 was a Monday. Monday is the first day of the week. Some people think it's Sunday. I don't understand those people.
 
