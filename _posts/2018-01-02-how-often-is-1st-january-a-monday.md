@@ -10,6 +10,8 @@ Anyway, it made me wonder...How often has the first day of the week been the fir
 
 I wrote some [bad, repetitive Python code](#that-bad-repetitive-python) (also [on Github)](https://github.com/edjw/how-often-is-1st-january-a-monday/) to work this out. I also made some bad, repetitive use of the [Plotly Python Library](https://plot.ly/python/) to make some bar charts.
 
+For some reason, 1st January doesn't spread evenly among all the days of the week. One in 7 is 14.29%. 1st January is a Monday or Saturday 14% of the time; Wednesday or Thursday 14.25% of the time; and Tuesday, Friday or Sunday 14.5% of the time.
+
 # From the year 1 AD to 2018
 
 | Day of week | Times 1st Jan has been X day | Avg years to wait |
@@ -24,11 +26,11 @@ I wrote some [bad, repetitive Python code](#that-bad-repetitive-python) (also [o
 
 These are the number of times 1st January has fallen on X day of the week since the year 1 AD (the earliest year Python can work with in its standard library). It also shows the mean average number of years we have to wait from 1st January being X day of the week until the next time it happens.
 
-There are three groupings of frequency of 1st January being X day of the week
+There are three groupings of frequency of 1st January being X day of the week.
 
-1. **Tuesdays (293 since the year 1 AD), Fridays (292) and Sundays (293).**
+1. **Tuesdays (293 since the year 1 AD), Fridays (292) and Sundays (293) -- 14.51%**
 2. **Wednesdays (287) and Thursdays (288)**
-3. **Mondays (283) and Saturdays (282).**
+3. **Mondays (283) and Saturdays (282)**
 
 Somebody (else) probably has an explanation for why this happens.
 
