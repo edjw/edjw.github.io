@@ -20,9 +20,7 @@ I wrote some [bad, repetitive Python code](#that-bad-repetitive-python) to work 
 | Saturday | 282 | 7.14 |
 | Sunday | 293 | 6.89 |
 
-![](/uploads/2018/01/02/first_jan_mon_2018.png)![](/uploads/2018/01/02/mean_wait_2018.png)
-
-**The next time 1st January is a Monday is 2024. The previous time was 2007.**
+These are the number of times 1st January has fallen on X day of the week since the year 1 AD (the earliest year Python can work with in its standard library). It also shows the mean average number of years we have to wait from 1st January being X day of the week until the next time it happens.
 
 There are three groupings of frequency of 1st January being X day of the week
 
@@ -31,6 +29,10 @@ There are three groupings of frequency of 1st January being X day of the week
 3. **Mondays (283) and Saturdays (282).**
 
 Somebody (else) probably has an explanation for why this happens.
+
+**The next time 1st January is a Monday is 2024. The previous time was 2007.**
+
+![](/uploads/2018/01/02/first_jan_mon_2018.png)![](/uploads/2018/01/02/mean_wait_2018.png)
 
 # From the year 1 AD to 9999
 
