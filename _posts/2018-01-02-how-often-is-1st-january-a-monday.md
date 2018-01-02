@@ -34,7 +34,7 @@ Somebody (else) probably has an explanation for why this happens.
 
 # From the year 1 AD to 9999
 
-Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9999 is the maximum year Python has in its standard library.) The results are as good as exactly the same.
+Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9999 is the maximum year Python can work with in its standard library.) The results are as good as exactly the same.
 
 | Day of week | Times 1st Jan has been X day | Avg years to wait |
 | --- | :---: | :---: |
