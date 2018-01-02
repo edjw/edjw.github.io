@@ -32,7 +32,7 @@ There are three groupings of frequency of 1st January being X day of the week
 
 Somebody (else) probably has an explanation for why this happens.
 
-**The next time 1st January is a Monday is 2024. The previous time was 2007.**
+**The next time 1st January is a Monday is 2024 (in 6 years). The previous time was 2007 (11 years ago).**
 
 ![](/uploads/2018/01/02/first_jan_mon_2018.png)
 
@@ -40,7 +40,7 @@ Somebody (else) probably has an explanation for why this happens.
 
 # From the year 1 AD to 9999
 
-Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9999 is the maximum year Python can work with in its standard library.) The results are as good as exactly the same.
+To test that a bit further I tried it from 1AD to the year 9999 as well. (9999 is the maximum year Python can work with in its standard library.) The results are as good as exactly the same.
 
 | Day of week | Times 1st Jan has been X day | Avg years to wait |
 | --- | :---: | :---: |
@@ -56,9 +56,11 @@ Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9
 
 ![](/uploads/2018/01/02/mean_wait_9999.png)
 
-And just to check that there's no change over time in how often a 1st January is X day of the week...(The days in the original three groupings overlap.)
+And just to check that there's no change over time in how often a 1st January is X day of the week...
 
 ![](/uploads/2018/01/02/first_jan_over_time_9999.png)
+
+There's no change over time in the rate of X day of the week being 1st January. (The days in the original three groupings overlap.)
 
 # That bad, repetitive Python
 
