@@ -38,6 +38,7 @@ Just to test that a bit further I tried it from 1AD to the year 9999 as well. (9
 
 ![](/uploads/2018/01/02/first_jan_mon_9999.png)
 
+![](/uploads/2018/01/02/mean_wait_9999.png)
 
 # That bad, repetitive Python
 
