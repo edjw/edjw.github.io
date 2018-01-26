@@ -2,3 +2,5 @@ name: Ed Johnson-Williams
 markdown: kramdown
 gems:
   - jekyll-feed
+plugins:
+ - jekyll-sitemap
