@@ -174,4 +174,4 @@ Doris W. DeLong</p>
 
 <p>Many of the composers in the book use their initials instead of their first name. I assumed that they were male unless I found out that they were female. (M. Durham, P. R. Lancaster, and M. L. A. Lancaster are female composers.) It seems particularly likely that I&#39;ve made a mistake somewhere because of this assumption.</p>
 
-<p>Finally, I have doubtless made mistakes in assigning a gender to some of the composers even considering the process above. The data I used is available here as a CSV spreadsheet. <a href="mailto:mail@edjohnsonwilliams.co.uk>Let me know</a> if you see any mistakes.</p>
+<p>Finally, I have doubtless made mistakes in assigning a gender to some of the composers even considering the process above. The data I used is available here as a CSV spreadsheet. <a href="mailto:mail@edjohnsonwilliams.co.uk">Let me know</a> if you see any mistakes.</p>
