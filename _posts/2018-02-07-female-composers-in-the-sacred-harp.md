@@ -150,7 +150,7 @@ Doris W. DeLong</p>
 
 <p><span class="font-weight-bold">0.07% – 348t</span> Ainslie – Judy Hauff (1988)</p>
 
-<p>0.07% – 466 Haynes Creek – Joyce Harrison (1988)</p>
+<p><span class="font-weight-bold">0.07% – 466</span> Haynes Creek – Joyce Harrison (1988)</p>
 
 <p><span class="font-weight-bold">0.07% – 491</span> Oh, What Love – Eula Denson Johnson (1960)</p>
 
@@ -158,7 +158,7 @@ Doris W. DeLong</p>
 
 <p><span class="font-weight-bold">0.04% – 367</span> Consolation – Annie Denson Aaron (1935)</p>
 
-<p>0.03% – 545 The Pilgrim’s Way – Irene Parker Denson (1959)</p>
+<p><span class="font-weight-bold">0.03% – 545</span> The Pilgrim’s Way – Irene Parker Denson (1959)</p>
 
 <p><span class="font-weight-bold">0.02% – 465</span> Where There’s No Trouble and Sorrow – Doris W. DeLong (1960)</p>
 
