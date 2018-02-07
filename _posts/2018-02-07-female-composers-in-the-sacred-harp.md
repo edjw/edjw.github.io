@@ -94,11 +94,13 @@ Doris W. DeLong</p>
 
 <p>I used the data from minuted Sacred Harp singings from 1995-2017 to work out how many times each song by a female composer has been called as a proportion of all the songs called.</p>
 
-<p>If all 554 songs in the book were led equally, 4.15% of all songs led in minuted singings would be by female composers. 4.17% of all songs led in minuted singings from 1995-2017 were by female composers. This suggests gender of composer isn&#39;t affecting singer&#39;s song choices.</p>
+<p>If all 554 songs in the book were led equally, 4.15% of all songs led in minuted singings would be by female composers. 4.17% of all songs led in minuted singings from 1995-2017 were by female composers. 1 in every 24 songs in the book is by a female composer. 1 in every 24 songs led at a minuted singing is by a female composer.</p>
 
 <h2 id="toc_5">Has the popularity of songs by female composers changed over time?</h2>
 
-<p>Songs by female composers have become more popular since 1995. Every year since 2013 has beaten the previous record for popularity of songs by female composers.</p>
+<p>The answer to the previous question suggests gender of composer isn&#39;t having much effect on singer&#39;s song choices. However, songs by female composers <span class="font-italic">have</span> become more popular since 1995. Every year since 2013 has beaten the previous record for popularity of songs by female composers.</p>
+
+<p>In 2004 – the year where songs by female composers were least popular – 1 in every 27 songs led at a minuted singing was by a female composer. By comparison, in 2017 – when female composers' songs were most popular – 1 in every 21 songs was by a female composer.</p>
 
 <a href="/uploads/2018/02/07/pc_all_songs_led_by_female_composer.png">
     <img src="/uploads/2018/02/07/pc_all_songs_led_by_female_composer.png" class="img-fluid" alt="">
