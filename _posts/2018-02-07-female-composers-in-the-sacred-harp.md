@@ -21,9 +21,11 @@ date: 2018-02-07 00:00:00 +0000
 
 <p>The data I created and used for this is available as a CSV spreadsheet here.</p>
 
+<p><a href="mailto:mail@edjohnsonwilliams.co.uk">Let me know</a> if you see errors, would like some more detail on an answer, or if there are other questions you&#39;d be interested in seeing the answer to.</p>
+
 <h2 id="toc_0">Who are the female composers in the book? Which songs in the book are by female composers?</h2>
 
-<p>In many ways, this is the most interesting question. Here&#39;s a list of songs in the book by female composers! Note that the first song in the book is by a woman!</p>
+<p>In many ways, this is the most interesting question. Here&#39;s a list of songs in the book by female composers. Note that the first song in the book is by a woman!</p>
 
 <p><span class="font-weight-bold">26</span> Samaria – Maggie Denson Cagle</p>
 
@@ -172,4 +174,4 @@ Doris W. DeLong</p>
 
 <p>Many of the composers in the book use their initials instead of their first name. I assumed that they were male unless I found out that they were female. (M. Durham, P. R. Lancaster, and M. L. A. Lancaster are female composers.) It seems particularly likely that I&#39;ve made a mistake somewhere because of this assumption.</p>
 
-<p>Finally, I have doubtless made mistakes in assigning a gender to some of the composers even considering the process above. The data I used is available here as a CSV spreadsheet. Let me know if you see any mistakes.</p>
+<p>Finally, I have doubtless made mistakes in assigning a gender to some of the composers even considering the process above. The data I used is available here as a CSV spreadsheet. <a href="mailto:mail@edjohnsonwilliams.co.uk>Let me know</a> if you see any mistakes.</p>
