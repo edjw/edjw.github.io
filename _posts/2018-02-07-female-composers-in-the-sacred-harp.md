@@ -98,9 +98,17 @@ Doris W. DeLong</p>
 
 <p>Songs by female composers have become more popular since 1995. Every year since 2013 has beaten the previous record for popularity of songs by female composers.</p>
 
+<a href="/uploads/2018/02/07/pc_all_songs_led_by_female_composer.png">
+    <img src="/uploads/2018/02/07/pc_all_songs_led_by_female_composer.png" class="img-fluid" alt="">
+</a>
+
 <h2 id="toc_6">What are the most popular songs by female composers?</h2>
 
 <p>If all 554 songs in the book were led equally, each song would be led 0.18% of the time. Eight of the 23 songs in the book by female composers are more popular than that.</p>
+
+<a href="/uploads/2018/02/07/pc_all_songs_by_song_number.png">
+    <img src="/uploads/2018/02/07/pc_all_songs_by_song_number.png" class="img-fluid" alt="">
+</a>
 
 <p>Here are the songs by female composers in order of most to least popular. (By comparison, 146 Hallelujah – the song in the book that&#39;s most often led – accounts for 0.8% of all songs led 1995-2017.)</p>
 
