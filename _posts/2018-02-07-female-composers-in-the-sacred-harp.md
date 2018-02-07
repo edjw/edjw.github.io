@@ -2,9 +2,9 @@
 title: Female Composers in the Sacred Harp
 date: 2018-02-07 00:00:00 +0000
 ---
-<p>I was recently in a Sacred Harp singing school where a new singer asked about female composers in the Sacred Harp. I said something like, &quot;Oh yeah there are lots of great songs in here by women.&quot; A few days later I thought about the question for a bit and realised I had no idea what I was basing that answer on other than that I like a few songs that I knew were by women.</p>
+<p>I was recently in a <a href="https://en.wikipedia.org/wiki/Sacred_Harp">Sacred Harp</a> singing school where a new singer asked about female composers in the Sacred Harp. The singing school was in Durham, UK (<a href="https://durhamsacredharp.co.uk">shameless plug</a>). I said something like, &quot;Oh yeah there are lots of great songs in here by women.&quot; A few days later I thought about the question again for a bit and realised I had no idea what I had based my answer on other than that I like a few songs that I knew were by women.</p>
 
-<p>I&#39;ve looked at the Sacred Harp and the minutes data to answer some questions about female composers in the Sacred Harp.</p>
+<p>I&#39;ve looked at the Sacred Harp and the minutes data to answer some questions that came to mind about female composers in the Sacred Harp.</p>
 
 <ol>
   <li><a href="#toc_0">Who are the female composers in the book?</a></li>
@@ -23,54 +23,54 @@ date: 2018-02-07 00:00:00 +0000
 
 <h2 id="toc_0">Who are the female composers in the book? Which songs in the book are by female composers?</h2>
 
-<p>In many ways, this is the most interesting question. Here&#39;s a list of songs in the book by female composers!</p>
+<p>In many ways, this is the most interesting question. Here&#39;s a list of songs in the book by female composers! Note that the first song in the book is by a woman!</p>
 
-<p>26 Samaria – Maggie Denson Cagle – The first song in the book is by a woman!</p>
+<p><span class="font-weight-bold">26</span> Samaria – Maggie Denson Cagle</p>
 
-<p>77b Holcombe – Charlene Wallace</p>
+<p><span class="font-weight-bold">77b</span> Holcombe – Charlene Wallace</p>
 
-<p>112 The Last Words of Copernicus – Sarah Lancaster</p>
+<p><span class="font-weight-bold">112</span> The Last Words of Copernicus – Sarah Lancaster</p>
 
-<p>128 The Promised Land – M. Durham</p>
+<p><span class="font-weight-bold">128</span> The Promised Land – M. Durham</p>
 
-<p>275b Roll On – Cynthia Bass</p>
+<p><span class="font-weight-bold">275b</span> Roll On – Cynthia Bass</p>
 
-<p>345b I’m On My Journey Home – Sarah Lancaster</p>
+<p><span class="font-weight-bold">345b</span> I’m On My Journey Home – Sarah Lancaster</p>
 
-<p>348t Ainslie – Judy Hauff</p>
+<p><span class="font-weight-bold">348t</span> Ainslie – Judy Hauff</p>
 
-<p>367 Consolation – Annie Denson Aaron</p>
+<p><span class="font-weight-bold">367</span> Consolation – Annie Denson Aaron</p>
 
-<p>368 Stony Point – Judy Hauff</p>
+<p><span class="font-weight-bold">368</span> Stony Point – Judy Hauff</p>
 
-<p>374 Oh, Sing With Me! – P. R. Lancaster</p>
+<p><span class="font-weight-bold">374</span> Oh, Sing With Me! – P. R. Lancaster</p>
 
-<p>406 New Harmony – M. L. A. Lancaster</p>
+<p><span class="font-weight-bold">406</span> New Harmony – M. L. A. Lancaster</p>
 
-<p>426t Kelley – Amanda Burdette Denson</p>
+<p><span class="font-weight-bold">426t</span> Kelley – Amanda Burdette Denson</p>
 
-<p>446 Infinite Day – Ruth Denson Edwards</p>
+<p><span class="font-weight-bold">446</span> Infinite Day – Ruth Denson Edwards</p>
 
-<p>460 Sardis – Sarah Lancaster</p>
+<p><span class="font-weight-bold">460</span> Sardis – Sarah Lancaster</p>
 
-<p>465 Where There’s No Trouble and Sorrow – 
+<p><span class="font-weight-bold">465</span> Where There’s No Trouble and Sorrow – 
 Doris W. DeLong</p>
 
-<p>466 Haynes Creek – Joyce Harrison</p>
+<p><span class="font-weight-bold">466</span> Haynes Creek – Joyce Harrison</p>
 
-<p>491 Oh, What Love – Eula Denson Johnson</p>
+<p><span class="font-weight-bold">491</span> Oh, What Love – Eula Denson Johnson</p>
 
-<p>504 Wood Street – Judy Hauff</p>
+<p><span class="font-weight-bold">504</span> Wood Street – Judy Hauff</p>
 
-<p>534 New Georgia – Ruth Denson Edwards</p>
+<p><span class="font-weight-bold">534</span> New Georgia – Ruth Denson Edwards</p>
 
-<p>543 Thou Art God – Ruth Denson Edwards</p>
+<p><span class="font-weight-bold">543</span> Thou Art God – Ruth Denson Edwards</p>
 
-<p>545 The Pilgrim’s Way – Irene Parker Denson</p>
+<p><span class="font-weight-bold">545</span> The Pilgrim’s Way – Irene Parker Denson</p>
 
-<p>547 Granville – Judy Hauff</p>
+<p><span class="font-weight-bold">547</span> Granville – Judy Hauff</p>
 
-<p>551 Jacob’s Vision – Margaret Wright</p>
+<p><span class="font-weight-bold">551</span> Jacob’s Vision – Margaret Wright</p>
 
 <h2 id="toc_1">What proportion of songs in the book are by female composers?</h2>
 
