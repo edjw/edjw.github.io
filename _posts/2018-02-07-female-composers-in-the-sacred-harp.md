@@ -78,7 +78,7 @@ Doris W. DeLong</p>
 
 <h2 id="toc_2">What proportion of the composers in the book are female?</h2>
 
-<p>6.25% (16) of the named composers in the book are female. 93.75% (192) of the named composers are male. I didn&#39;t count songs in the book where I couldn&#39;t attribute a gender to the composer for this. </p>
+<p>6.25% (16) of the named composers in the book are female. 93.75% (192) of the named composers are male. I didn&#39;t count songs in the book <a href="#unknown-gender">where I couldn&#39;t attribute a gender</a> to the composer for this. </p>
 
 <h2 id="toc_3">How likely are female composers to have multiple songs in the book?</h2>
 
@@ -167,7 +167,7 @@ Doris W. DeLong (1960) – 0.02%</p>
 
 <p>A song which is attributed in the book to a male composer is counted as being by a male composer even if it was written by a woman. A song which is attributed to a female composer is counted as being by a female composer even if it was written by a man. </p>
 
-<p>Songs where there is no clear composer are counted as unknown, neither male nor female. This includes songs where: a) only a surname is given (410t The Dying Californian – Ball), b) a songbook is given as the source of the tune (28t Aylesbury – A Book of Psalmody), and c) no source is given (43 Primrose Hill). I haven&#39;t delved into the sources of those tunes but it is very likely that the overwhelming majority of songs in these three groups were written by men.</p>
+<p id="unknown-gender">Songs where there is no clear composer are counted as unknown, neither male nor female. This includes songs where: a) only a surname is given (410t The Dying Californian – Ball), b) a songbook is given as the source of the tune (28t Aylesbury – A Book of Psalmody), and c) no source is given (43 Primrose Hill). I haven&#39;t delved into the sources of those tunes but it is very likely that the overwhelming majority of songs in these three groups were written by men.</p>
 
 <p>Many of the composers in the book use their initials instead of their first name. I assumed that they were male unless I found out that they were female. (M. Durham, P. R. Lancaster, and M. L. A. Lancaster are female composers.) It seems particularly likely that I&#39;ve made a mistake somewhere because of this assumption.</p>
 
