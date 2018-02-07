@@ -1,4 +1,4 @@
 name: Ed Johnson-Williams
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
