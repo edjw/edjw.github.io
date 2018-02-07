@@ -94,7 +94,7 @@ Doris W. DeLong</p>
 
 <p>I used the data from minuted Sacred Harp singings from 1995-2017 to work out how many times each song by a female composer has been called as a proportion of all the songs called.</p>
 
-<p>If all 554 songs in the book were led equally, 4.15% of all songs led in minuted singings would be by female composers. 4.17% of all songs led in minuted singings from 1995-2017 were by female composers.</p>
+<p>If all 554 songs in the book were led equally, 4.15% of all songs led in minuted singings would be by female composers. 4.17% of all songs led in minuted singings from 1995-2017 were by female composers. This suggests gender of composer isn&#39;t affecting singer&#39;s song choices.</p>
 
 <h2 id="toc_5">Has the popularity of songs by female composers changed over time?</h2>
 
