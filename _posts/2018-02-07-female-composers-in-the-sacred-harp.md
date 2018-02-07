@@ -110,54 +110,55 @@ Doris W. DeLong</p>
     <img src="/uploads/2018/02/07/pc_all_songs_by_song_number.png" class="img-fluid" alt="">
 </a>
 
-<p>Here are the songs by female composers in order of most to least popular. (By comparison, 146 Hallelujah – the song in the book that&#39;s most often led – accounts for 0.8% of all songs led 1995-2017.)</p>
+<p>Here are the songs by female composers sorted by the percentage of all songs led in minuted singing 1995-2017 that that particular song has been led.
+  
+<p>(By comparison, 146 Hallelujah – the song in the book that has been led most often – accounts for 0.8% of all songs led 1995-2017.)</p>
 
-<p>112 The Last Words of Copernicus – Sarah Lancaster (1869) – 0.56%</p>
+<p><span class="font-weight-bold">0.56% – 112</span> The Last Words of Copernicus – Sarah Lancaster (1869)</p>
 
-<p>26 Samaria – Maggie Denson Cagle (1936) – 0.52%</p>
+<p><span class="font-weight-bold">0.52% – 26</span> Samaria – Maggie Denson Cagle (1936)</p>
 
-<p>460 Sardis – Sarah Lancaster (1869) – 0.43%</p>
+<p><span class="font-weight-bold">0.43% – 460</span> Sardis – Sarah Lancaster (1869)</p>
 
-<p>128 The Promised Land – M. Durham (1835) – 0.34%</p>
+<p><span class="font-weight-bold">0.34% – 128</span> The Promised Land – M. Durham (1835)</p>
 
-<p>504 Wood Street – Judy Hauff (1986) – 0.34%</p>
+<p><span class="font-weight-bold">0.34% – 504</span> Wood Street – Judy Hauff (1986)</p>
 
-<p>547 Granville – Judy Hauff (1986) – 0.29%</p>
+<p><span class="font-weight-bold">0.29% – 547</span> Granville – Judy Hauff (1986)</p>
 
-<p>551 Jacob’s Vision – Margaret Wright (1959) – 0.27%</p>
+<p><span class="font-weight-bold">0.27% – 551</span> Jacob’s Vision – Margaret Wright (1959)</p>
 
-<p>426t Kelley – Amanda Burdette Denson (1908) – 0.20%</p>
+<p><span class="font-weight-bold">0.20% – 426t</span> Kelley – Amanda Burdette Denson (1908)</p>
 
-<p>77b Holcombe – Charlene Wallace (1986) – 0.16%</p>
+<p><span class="font-weight-bold">0.16% – 77b</span> Holcombe – Charlene Wallace (1986)</p>
 
-<p>345b I’m On My Journey Home – Sarah Lancaster (1859) – 0.12%</p>
+<p><span class="font-weight-bold">0.12% – 345b</span> I’m On My Journey Home – Sarah Lancaster (1859)</p>
 
-<p>406 New Harmony – M. L. A. Lancaster (1859) – 0.12%</p>
+<p><span class="font-weight-bold">0.12% – 406</span> New Harmony – M. L. A. Lancaster (1859)</p>
 
-<p>275b Roll On – Cynthia Bass (1850) – 0.11%</p>
+<p><span class="font-weight-bold">0.11% – 275b</span> Roll On – Cynthia Bass (1850)</p>
 
-<p>543 Thou Art God – Ruth Denson Edwards (1959) – 0.09%</p>
+<p><span class="font-weight-bold">0.09% – 543</span> Thou Art God – Ruth Denson Edwards (1959)</p>
 
-<p>446 Infinite Day – Ruth Denson Edwards (1936) – 0.09%</p>
+<p><span class="font-weight-bold">0.09% – 446</span> Infinite Day – Ruth Denson Edwards (1936)</p>
 
-<p>368 Stony Point – Judy Hauff (1990) – 0.09%</p>
+<p><span class="font-weight-bold">0.09% – 368</span> Stony Point – Judy Hauff (1990)</p>
 
-<p>534 New Georgia – Ruth Denson Edwards (1959) – 0.07%</p>
+<p><span class="font-weight-bold">0.07% – 534</span> New Georgia – Ruth Denson Edwards (1959)</p>
 
-<p>348t Ainslie – Judy Hauff (1988) – 0.07%</p>
+<p><span class="font-weight-bold">0.07% – 348t</span> Ainslie – Judy Hauff (1988)</p>
 
-<p>466 Haynes Creek – Joyce Harrison (1988) – 0.07%</p>
+<p>0.07% – 466 Haynes Creek – Joyce Harrison (1988)</p>
 
-<p>491 Oh, What Love – Eula Denson Johnson (1960) – 0.07%</p>
+<p><span class="font-weight-bold">0.07% – 491</span> Oh, What Love – Eula Denson Johnson (1960)</p>
 
-<p>374 Oh, Sing With Me! – P. R. Lancaster (1859) – 0.04%</p>
+<p><span class="font-weight-bold">0.04% – 374</span> Oh, Sing With Me! – P. R. Lancaster (1859)</p>
 
-<p>367 Consolation – Annie Denson Aaron (1935) – 0.04%</p>
+<p><span class="font-weight-bold">0.04% – 367</span> Consolation – Annie Denson Aaron (1935)</p>
 
-<p>545 The Pilgrim’s Way – Irene Parker Denson (1959) – 0.03%</p>
+<p>0.03% – 545 The Pilgrim’s Way – Irene Parker Denson (1959)</p>
 
-<p>465 Where There’s No Trouble and Sorrow – 
-Doris W. DeLong (1960) – 0.02%</p>
+<p><span class="font-weight-bold">0.02% – 465</span> Where There’s No Trouble and Sorrow – Doris W. DeLong (1960)</p>
 
 <h2 id="toc_7">How I attributed gender to composers</h2>
 
