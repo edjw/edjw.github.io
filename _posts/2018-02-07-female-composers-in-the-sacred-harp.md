@@ -7,17 +7,17 @@ date: 2018-02-07 00:00:00 +0000
 <p>I&#39;ve looked at the Sacred Harp and the minutes data to answer some questions about female composers in the Sacred Harp.</p>
 
 <ol>
-  <li><a href="/toc_0">Who are the female composers in the book?</a></li>
-  <li><a href="/toc_0">Which songs in the book are by female composers?</a></li>
-  <li><a href="/toc_1">What proportion of songs in the book are by female composers?</a></li>
-  <li><a href="/toc_2">What proportion of the composers in the book are female?</a></li>
-  <li><a href="/toc_3">How likely are female composers to have multiple songs in the book?</a></li>
-  <li><a href="/toc_4">How popular are the songs by female composers?</a></li>
-  <li><a href="/toc_5">Has the popularity of songs by female composers changed over time?</a></li>
-  <li><a href="/toc_6">What are the most popular songs by female composers?</a></li>
+  <li><a href="#toc_0">Who are the female composers in the book?</a></li>
+  <li><a href="#toc_0">Which songs in the book are by female composers?</a></li>
+  <li><a href="#toc_1">What proportion of songs in the book are by female composers?</a></li>
+  <li><a href="#toc_2">What proportion of the composers in the book are female?</a></li>
+  <li><a href="#toc_3">How likely are female composers to have multiple songs in the book?</a></li>
+  <li><a href="#toc_4">How popular are the songs by female composers?</a></li>
+  <li><a href="#toc_5">Has the popularity of songs by female composers changed over time?</a></li>
+  <li><a href="#toc_6">What are the most popular songs by female composers?</a></li>
 </ol>
 
-<p>There&#39;s <a href="/toc_7">a note at the bottom of this post</a> about how I attributed gender to the composers. The short version is that I used the name given in the book for the composer and didn&#39;t get into nuances.</p>
+<p>There&#39;s <a href="#toc_7">a note at the bottom of this post</a> about how I attributed gender to the composers. The short version is that I used the name given in the book for the composer and didn&#39;t get into nuances.</p>
 
 <p>The data I created and used for this is available as a CSV spreadsheet here.</p>
 
