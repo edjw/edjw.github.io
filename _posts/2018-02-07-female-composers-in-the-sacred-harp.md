@@ -4,7 +4,7 @@ date: 2018-02-08 00:00:00 +0000
 ---
 <p>A couple of weeks ago, I was in a <a href="https://en.wikipedia.org/wiki/Sacred_Harp">Sacred Harp</a> singing school where a new singer asked whether there are female composers in the Sacred Harp. The singing school was in <a href="https://durhamsacredharp.co.uk">Durham, UK</a> (<a href="https://durhamsacredharp.co.uk">shameless plug</a>). I said something like, "Oh yeah there are lots of great songs in here by women." A few days later I thought about the question again for a bit. I realised that although I liked several songs by women, I didn't really have anything to base my answer on.</p>
   
-<p>To rectify that I've looked at the Sacred Harp and the minutes data to answer some questions that came to mind about female composers in the Sacred Harp. I'm using the 1991 edition of the red "Denson book".</p>
+<p>To rectify that, I've looked at the Sacred Harp and the minutes data to answer some questions that came to mind about female composers in the Sacred Harp. I'm using the 1991 edition of the red "Denson book".</p>
 
 <ol>
   <li><a href="#toc_0">Who are the female composers in the book?</a></li>
@@ -94,9 +94,9 @@ Doris W. DeLong</p>
 
 <h2 id="toc_4">How popular are the songs by female composers?</h2>
 
-<p>I used the data from minuted Sacred Harp singings from 1995-2017 to work out how many times each song by a female composer has been called as a proportion of all the songs called.</p>
+<p>I used <a href="https://fasola.org/minutes/stats/?s=c">the data from minuted Sacred Harp singings from 1995-2017</a> to work out how many times each song by a female composer has been called as a proportion of all the songs called.</p>
 
-<p>If all 554 songs in the book were led equally, 4.15% of all songs led in minuted singings would be by female composers. 3.7% of all songs led in minuted singings from 1995-2017 were by female composers. 1 in every 24 songs in the book is by a female composer. 1 in every 29 songs led at a minuted singing is by a female composer.</p>
+<p>If all 554 songs in the book were led equally, 4.15% of all songs led in minuted singings would be by female composers. 3.7% of all songs led in minuted singings from 1995-2017 were by female composers. 1 in every 24 songs in the book is by a female composer. 1 in every 29 songs led at a minuted singing from 1995-2017 is by a female composer.</p>
 
 <h2 id="toc_5">Has the popularity of songs by female composers changed over time?</h2>
 
@@ -116,7 +116,7 @@ Doris W. DeLong</p>
     <img src="/uploads/2018/02/08/pc_all_songs_by_song_number_.png" class="img-fluid" alt="">
 </a>
 
-<p>Here are the songs by female composers sorted by the percentage of all songs led in minuted singing 1995-2017 that that particular song has been led. The percentages are rounded to 2 decimal places. The 1 in N figure is from the unrounded percentage which is why there's a slight discrepancy.
+<p>Here are the songs by female composers sorted by the percentage of all songs led in minuted singing 1995-2017 that that particular song has been led. The percentages are rounded to 2 decimal places. The 1 in N figure is from the unrounded percentage which is why there's a slight discrepancy sometimes.
   
 <p>By comparison, 146 Hallelujah – the song in the book that has been led most often – accounts for 0.8% (1 in every 125) of all songs led 1995-2017.</p>
 
@@ -168,9 +168,9 @@ Doris W. DeLong</p>
 
 <h2 id="toc_7">How I attributed gender to composers</h2>
 
-<p>I used the composer names as given in the book to attribute gender. In general, if Wikipedia says a given name is predominantly used for men then I assumed a composer with that name was male.</p>
+<p>I used the composer names as given in the book to attribute gender. In general, if Wikipedia says a given name is predominantly used for men then I assumed a composer with that name was male. Clearly, there are some potential issues with that approach.</p>
 
-<p>There <em>are</em> songs in the book where the name given for the composer is not who wrote the song. There would be arguments for assigning the song to the original composer rather than the attributed composer but I decided not to get into that.</p>
+<p>Some songs in the book give the name for the composer which is not the name of the person who wrote the song. There would be arguments for assigning the song to the original composer rather than the attributed composer but I decided not to get into that.</p>
 
 <p>A song which is attributed in the book to a male composer is counted as being by a male composer even if it was written by a woman. A song which is attributed to a female composer is counted as being by a female composer even if it was written by a man. </p>
 
