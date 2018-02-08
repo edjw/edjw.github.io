@@ -13,8 +13,9 @@ date: 2018-02-08 00:00:00 +0000
   <li><a href="#toc_2">What proportion of the composers in the book are female?</a></li>
   <li><a href="#toc_3">How likely are female composers to have multiple songs in the book?</a></li>
   <li><a href="#toc_4">How popular are the songs by female composers?</a></li>
-  <li><a href="#toc_5">Has the popularity of songs by female composers changed over time?</a></li>
   <li><a href="#toc_6">What are the most popular songs by female composers?</a></li>
+  <li><a href="#toc_5">Has the popularity of songs by female composers changed over time?</a></li>
+
 </ol>
 
 <p>There's <a href="#toc_7">a note at the bottom of this post</a> about how I attributed gender to the composers. The short version is that I used the name given in the book for the composer and didn't get into nuances.</p>
@@ -98,16 +99,6 @@ Doris W. DeLong</p>
 
 <p>If all 554 songs in the book were led equally, 4.15% of all songs led in minuted singings would be by female composers. 3.7% of all songs led in minuted singings from 1995-2017 were by female composers. 1 in every 24 songs in the book is by a female composer. 1 in every 29 songs led at a minuted singing from 1995-2017 is by a female composer.</p>
 
-<h2 id="toc_5">Has the popularity of songs by female composers changed over time?</h2>
-
-<p>Songs by female composers <span class="font-italic">have</span> become more popular since 1995. </p>
-
-<p>In 1995 – the year where songs by female composers were least popular – 1 in every 30 songs led at a minuted singing was by a female composer. By comparison, in 2017 – when female composers' songs were most popular – 1 in every 24 songs was by a female composer.</p>
-
-<a href="/uploads/2018/02/08/pc_all_songs_led_by_female_composer_.png">
-    <img src="/uploads/2018/02/08/pc_all_songs_led_by_female_composer_.png" class="img-fluid" alt="">
-</a>
-
 <h2 id="toc_6">What are the most popular songs by female composers?</h2>
 
 <p>If all 554 songs in the book were led equally, each song would be led 0.18% (1 in every 554) of the time. 7 of the 23 songs in the book by female composers are more popular than that.</p>
@@ -165,6 +156,17 @@ Doris W. DeLong</p>
 <p><span class="font-weight-bold">0.03% (1 in 3,095)</span> – <span class="font-weight-bold">545</span> The Pilgrim’s Way – Irene Parker Denson (1959)</p>
 
 <p><span class="font-weight-bold">0.02% (1 in 4,054)</span> – <span class="font-weight-bold">465</span> Where There’s No Trouble and Sorrow – Doris W. DeLong (1960)</p>
+
+<h2 id="toc_5">Has the popularity of songs by female composers changed over time?</h2>
+
+<p>Songs by female composers <span class="font-italic">have</span> become more popular since 1995. </p>
+
+<p>In 1995 – the year where songs by female composers were least popular – 1 in every 30 songs led at a minuted singing was by a female composer. By comparison, in 2017 – when female composers' songs were most popular – 1 in every 24 songs was by a female composer.</p>
+
+<a href="/uploads/2018/02/08/pc_all_songs_led_by_female_composer_.png">
+    <img src="/uploads/2018/02/08/pc_all_songs_led_by_female_composer_.png" class="img-fluid" alt="">
+</a>
+
 
 <h2 id="toc_7">How I attributed gender to composers</h2>
 
