@@ -29,51 +29,30 @@ date: 2018-02-08 00:00:00 +0000
 <p>In many ways, this is the most interesting question. Here's a list of songs in the book by female composers. Note that the first song in the book is by a woman!</p>
 
 <p><span class="font-weight-bold">26</span> Samaria – Maggie Denson Cagle</p>
-
 <p><span class="font-weight-bold">77b</span> Holcombe – Charlene Wallace</p>
-
 <p><span class="font-weight-bold">112</span> The Last Words of Copernicus – Sarah Lancaster</p>
-
 <p><span class="font-weight-bold">128</span> The Promised Land – M. Durham</p>
-
 <p><span class="font-weight-bold">275b</span> Roll On – Cynthia Bass</p>
-
-<p><span class="font-weight-bold">345b</span> I’m On My Journey Home – Sarah Lancaster</p>
-
+<p><span class="font-weight-bold">345b</span> I'm On My Journey Home – Sarah Lancaster</p>
 <p><span class="font-weight-bold">348t</span> Ainslie – Judy Hauff</p>
-
 <p><span class="font-weight-bold">367</span> Consolation – Annie Denson Aaron</p>
-
 <p><span class="font-weight-bold">368</span> Stony Point – Judy Hauff</p>
-
 <p><span class="font-weight-bold">374</span> Oh, Sing With Me! – P. R. Lancaster</p>
-
+<p><span class="font-weight-bold">378b</span> Never Turn Back – F. E. Parkerson</p>
 <p><span class="font-weight-bold">406</span> New Harmony – M. L. A. Lancaster</p>
-
 <p><span class="font-weight-bold">426t</span> Kelley – Amanda Burdette Denson</p>
-
+<p><span class="font-weight-bold">438</span> The Marriage in the Skies – Sidney Burdette Denson</p>
 <p><span class="font-weight-bold">446</span> Infinite Day – Ruth Denson Edwards</p>
-
+<p><span class="font-weight-bold">448b</span> The Grieved Soul – M. A. Hendon</p>
 <p><span class="font-weight-bold">460</span> Sardis – Sarah Lancaster</p>
-
-<p><span class="font-weight-bold">465</span> Where There’s No Trouble and Sorrow – 
-Doris W. DeLong</p>
-
 <p><span class="font-weight-bold">466</span> Haynes Creek – Joyce Harrison</p>
-
 <p><span class="font-weight-bold">491</span> Oh, What Love – Eula Denson Johnson</p>
-
 <p><span class="font-weight-bold">504</span> Wood Street – Judy Hauff</p>
-
 <p><span class="font-weight-bold">534</span> New Georgia – Ruth Denson Edwards</p>
-
 <p><span class="font-weight-bold">543</span> Thou Art God – Ruth Denson Edwards</p>
-
-<p><span class="font-weight-bold">545</span> The Pilgrim’s Way – Irene Parker Denson</p>
-
+<p><span class="font-weight-bold">545</span> The Pilgrim's Way – Irene Parker Denson</p>
 <p><span class="font-weight-bold">547</span> Granville – Judy Hauff</p>
-
-<p><span class="font-weight-bold">551</span> Jacob’s Vision – Margaret Wright</p>
+<p><span class="font-weight-bold">551</span> Jacob's Vision – Margaret Wright</p>
 
 <h2 id="toc_1">What proportion of songs in the book are by female composers?</h2>
 
