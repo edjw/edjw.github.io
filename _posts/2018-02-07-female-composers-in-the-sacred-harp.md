@@ -1,10 +1,10 @@
 ---
 title: Female Composers in the Sacred Harp
-date: 2018-02-07 00:00:00 +0000
+date: 2018-02-08 00:00:00 +0000
 ---
-<p>A couple of weeks ago, I was in a <a href="https://en.wikipedia.org/wiki/Sacred_Harp">Sacred Harp</a> singing school where a new singer asked whether there are female composers in the Sacred Harp. The singing school was in <a href="https://durhamsacredharp.co.uk">Durham, UK</a> (<a href="https://durhamsacredharp.co.uk">shameless plug</a>). I said something like, &quot;Oh yeah there are lots of great songs in here by women.&quot; A few days later I thought about the question again for a bit. I realised that although I liked several songs by women, I didn&#39;t really know that there were &quot;lots&quot; of female composers in the Sacred Harp. I&#39;d said that
+<p>A couple of weeks ago, I was in a <a href="https://en.wikipedia.org/wiki/Sacred_Harp">Sacred Harp</a> singing school where a new singer asked whether there are female composers in the Sacred Harp. The singing school was in <a href="https://durhamsacredharp.co.uk">Durham, UK</a> (<a href="https://durhamsacredharp.co.uk">shameless plug</a>). I said something like, "Oh yeah there are lots of great songs in here by women." A few days later I thought about the question again for a bit. I realised that although I liked several songs by women, I didn't really have anything to base my answer on.</p>
   
-<p>I&#39;ve looked at the Sacred Harp and the minutes data to answer some questions that came to mind about female composers in the Sacred Harp. I'm using the 1991 edition of the red "Denson book".</p>
+<p>To rectify that I've looked at the Sacred Harp and the minutes data to answer some questions that came to mind about female composers in the Sacred Harp. I'm using the 1991 edition of the red "Denson book".</p>
 
 <ol>
   <li><a href="#toc_0">Who are the female composers in the book?</a></li>
@@ -17,15 +17,15 @@ date: 2018-02-07 00:00:00 +0000
   <li><a href="#toc_6">What are the most popular songs by female composers?</a></li>
 </ol>
 
-<p>There&#39;s <a href="#toc_7">a note at the bottom of this post</a> about how I attributed gender to the composers. The short version is that I used the name given in the book for the composer and didn&#39;t get into nuances.</p>
+<p>There's <a href="#toc_7">a note at the bottom of this post</a> about how I attributed gender to the composers. The short version is that I used the name given in the book for the composer and didn't get into nuances.</p>
 
 <p>The data I created and used for this is available here as <a href="/uploads/2018/02/08/sacredharpcomposers.xls">an Excel (.xls) spreadsheet</a>.</p>
 
-<p><a href="mailto:mail@edjohnsonwilliams.co.uk">Let me know</a> if you see errors, would like some more detail on an answer, or if there are other questions you&#39;d be interested in seeing the answer to.</p>
+<p><a href="mailto:mail@edjohnsonwilliams.co.uk">Let me know</a> if you see errors, would like some more detail on an answer, or if there are other questions you'd be interested in seeing the answer to.</p>
 
 <h2 id="toc_0">Who are the female composers in the book? Which songs in the book are by female composers?</h2>
 
-<p>In many ways, this is the most interesting question. Here&#39;s a list of songs in the book by female composers. Note that the first song in the book is by a woman!</p>
+<p>In many ways, this is the most interesting question. Here's a list of songs in the book by female composers. Note that the first song in the book is by a woman!</p>
 
 <p><span class="font-weight-bold">26</span> Samaria – Maggie Denson Cagle</p>
 
@@ -80,7 +80,7 @@ Doris W. DeLong</p>
 
 <h2 id="toc_2">What proportion of the composers in the book are female?</h2>
 
-<p>7.7% (16) of the named composers in the book are female. 92.3% (192) of the named composers are male. I didn&#39;t count songs in the book <a href="#unknown-gender">where I couldn&#39;t attribute a gender</a> to the composer for this. </p>
+<p>7.7% (16) of the named composers in the book are female. 92.3% (192) of the named composers are male. I didn't count songs in the book <a href="#unknown-gender">where I couldn't attribute a gender</a> to the composer for this. </p>
 
 <h2 id="toc_3">How likely are female composers to have multiple songs in the book?</h2>
 
@@ -116,7 +116,7 @@ Doris W. DeLong</p>
     <img src="/uploads/2018/02/08/pc_all_songs_by_song_number_.png" class="img-fluid" alt="">
 </a>
 
-<p>Here are the songs by female composers sorted by the percentage of all songs led in minuted singing 1995-2017 that that particular song has been led. The percentages are rounded to 2 decimal places. The 1 in N figure is from the unrounded percentage which is why there&#39;s a slight discrepancy.
+<p>Here are the songs by female composers sorted by the percentage of all songs led in minuted singing 1995-2017 that that particular song has been led. The percentages are rounded to 2 decimal places. The 1 in N figure is from the unrounded percentage which is why there's a slight discrepancy.
   
 <p>By comparison, 146 Hallelujah – the song in the book that has been led most often – accounts for 0.8% (1 in every 125) of all songs led 1995-2017.</p>
 
@@ -174,8 +174,8 @@ Doris W. DeLong</p>
 
 <p>A song which is attributed in the book to a male composer is counted as being by a male composer even if it was written by a woman. A song which is attributed to a female composer is counted as being by a female composer even if it was written by a man. </p>
 
-<p id="unknown-gender">Songs where there is no clear composer are counted as unknown, neither male nor female. This accounts for 62 songs. This includes songs where: a) only a surname is given (410t The Dying Californian – Ball), b) a songbook is given as the source of the tune (28t Aylesbury – A Book of Psalmody), and c) no source is given (43 Primrose Hill). I haven&#39;t delved into the sources of those tunes but it is very likely that the overwhelming majority of songs in these three groups was written by men.</p>
+<p id="unknown-gender">Songs where there is no clear composer are counted as unknown, neither male nor female. This accounts for 62 songs. This includes songs where: a) only a surname is given (410t The Dying Californian – Ball), b) a songbook is given as the source of the tune (28t Aylesbury – A Book of Psalmody), and c) no source is given (43 Primrose Hill). I haven't delved into the sources of those tunes but it is very likely that the overwhelming majority of songs in these three groups was written by men.</p>
 
-<p>90 of the composers in the book use their initials instead of their first name. I assumed that they were male unless I found out that they were female. (M. Durham, P. R. Lancaster, and M. L. A. Lancaster are female composers.) It seems particularly likely that I&#39;ve made mistakes because of this assumption.</p>
+<p>90 of the composers in the book use their initials instead of their first name. I assumed that they were male unless I found out that they were female. (M. Durham, P. R. Lancaster, and M. L. A. Lancaster are female composers.) It seems particularly likely that I've made mistakes because of this assumption.</p>
 
 <p>Finally, I have doubtless made mistakes in assigning a gender to some of the composers even considering the process above. The data I used is available here as <a href="/uploads/2018/02/08/sacredharpcomposers.xls">an Excel (.xls) spreadsheet</a>. <a href="mailto:mail@edjohnsonwilliams.co.uk">Let me know</a> if you see any mistakes.</p>
