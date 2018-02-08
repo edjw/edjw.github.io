@@ -142,27 +142,27 @@ Doris W. DeLong</p>
 
 <p><span class="font-weight-bold">0.11% (1 in 909)</span> – <span class="font-weight-bold">275b</span> Roll On – Cynthia Bass (1850)</p>
 
-<p><span class="font-weight-bold">0.09% (1 in 1111)</span> – <span class="font-weight-bold">543</span> Thou Art God – Ruth Denson Edwards (1959)</p>
+<p><span class="font-weight-bold">0.09% (1 in 1,111)</span> – <span class="font-weight-bold">543</span> Thou Art God – Ruth Denson Edwards (1959)</p>
 
-<p><span class="font-weight-bold">0.09% (1 in 1111)</span> – <span class="font-weight-bold">446</span> Infinite Day – Ruth Denson Edwards (1936)</p>
+<p><span class="font-weight-bold">0.09% (1 in 1,111)</span> – <span class="font-weight-bold">446</span> Infinite Day – Ruth Denson Edwards (1936)</p>
 
-<p><span class="font-weight-bold">0.09% (1 in 1111)</span> – <span class="font-weight-bold">368</span> Stony Point – Judy Hauff (1990)</p>
+<p><span class="font-weight-bold">0.09% (1 in 1,111)</span> – <span class="font-weight-bold">368</span> Stony Point – Judy Hauff (1990)</p>
 
-<p><span class="font-weight-bold">0.07% (1 in 1429)</span> – <span class="font-weight-bold">534</span> New Georgia – Ruth Denson Edwards (1959)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1,429)</span> – <span class="font-weight-bold">534</span> New Georgia – Ruth Denson Edwards (1959)</p>
 
-<p><span class="font-weight-bold">0.07% (1 in 1429)</span> – <span class="font-weight-bold">348t</span> Ainslie – Judy Hauff (1988)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1,429)</span> – <span class="font-weight-bold">348t</span> Ainslie – Judy Hauff (1988)</p>
 
-<p><span class="font-weight-bold">0.07% (1 in 1429)</span> – <span class="font-weight-bold">466</span> Haynes Creek – Joyce Harrison (1988)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1,429)</span> – <span class="font-weight-bold">466</span> Haynes Creek – Joyce Harrison (1988)</p>
 
-<p><span class="font-weight-bold">0.07% (1 in 1429)</span> – <span class="font-weight-bold">491</span> Oh, What Love – Eula Denson Johnson (1960)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1,429)</span> – <span class="font-weight-bold">491</span> Oh, What Love – Eula Denson Johnson (1960)</p>
 
-<p><span class="font-weight-bold">0.04% (1 in 2500)</span> – <span class="font-weight-bold">374</span> Oh, Sing With Me! – P. R. Lancaster (1859)</p>
+<p><span class="font-weight-bold">0.04% (1 in 2,500)</span> – <span class="font-weight-bold">374</span> Oh, Sing With Me! – P. R. Lancaster (1859)</p>
 
-<p><span class="font-weight-bold">0.04% (1 in 2500)</span> – <span class="font-weight-bold">367</span> Consolation – Annie Denson Aaron (1935)</p>
+<p><span class="font-weight-bold">0.04% (1 in 2,500)</span> – <span class="font-weight-bold">367</span> Consolation – Annie Denson Aaron (1935)</p>
 
-<p><span class="font-weight-bold">0.03% (1 in 3333)</span> – <span class="font-weight-bold">545</span> The Pilgrim’s Way – Irene Parker Denson (1959)</p>
+<p><span class="font-weight-bold">0.03% (1 in 3,333)</span> – <span class="font-weight-bold">545</span> The Pilgrim’s Way – Irene Parker Denson (1959)</p>
 
-<p><span class="font-weight-bold">0.02% (1 in 5000)</span> – <span class="font-weight-bold">465</span> Where There’s No Trouble and Sorrow – Doris W. DeLong (1960)</p>
+<p><span class="font-weight-bold">0.02% (1 in 5,000)</span> – <span class="font-weight-bold">465</span> Where There’s No Trouble and Sorrow – Doris W. DeLong (1960)</p>
 
 <h2 id="toc_7">How I attributed gender to composers</h2>
 
