@@ -58,13 +58,21 @@ To test that a bit further I tried it from 1AD to the year 9999 as well. (9999 i
 | Saturday | 1399 | 7.15 |
 | Sunday | 1450 | 6.89 |
 
-![](/uploads/2018/01/02/first_jan_mon_9999.png)
+<a href="/uploads/2018/01/02/first_jan_mon_9999.png">
+    <img src="/uploads/2018/01/02/first_jan_mon_9999.png" class="img-fluid" alt="">
+</a>
 
-![](/uploads/2018/01/02/mean_wait_9999.png)
+<a href="/uploads/2018/01/02/mean_wait_9999.png">
+    <img src="/uploads/2018/01/02/mean_wait_9999.png" class="img-fluid" alt="">
+</a>
 
 And just to check that there's no change over time in how often a 1st January is X day of the week...
 
-![](/uploads/2018/01/02/first_jan_over_time_9999.png)
+![]()
+
+<a href="/uploads/2018/01/02/first_jan_over_time_9999.png">
+    <img src="/uploads/2018/01/02/first_jan_over_time_9999.png" class="img-fluid" alt="">
+</a>
 
 There's no change over time in the rate of X day of the week being 1st January. (The days in the original three groupings overlap.)
 
