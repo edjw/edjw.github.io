@@ -108,7 +108,7 @@ Doris W. DeLong</p>
 
 <h2 id="toc_6">What are the most popular songs by female composers?</h2>
 
-<p>If all 554 songs in the book were led equally, each song would be led 0.18% of the time. Eight of the 23 songs in the book by female composers are more popular than that.</p>
+<p>If all 554 songs in the book were led equally, each song would be led 0.18% (1 in every 554) of the time. Eight of the 23 songs in the book by female composers are more popular than that.</p>
 
 <a href="/uploads/2018/02/07/pc_all_songs_by_song_number.png">
     <img src="/uploads/2018/02/07/pc_all_songs_by_song_number.png" class="img-fluid" alt="">
@@ -116,53 +116,53 @@ Doris W. DeLong</p>
 
 <p>Here are the songs by female composers sorted by the percentage of all songs led in minuted singing 1995-2017 that that particular song has been led.
   
-<p>(By comparison, 146 Hallelujah – the song in the book that has been led most often – accounts for 0.8% of all songs led 1995-2017.)</p>
+<p>By comparison, 146 Hallelujah – the song in the book that has been led most often – accounts for 0.8% (1 in every 125) of all songs led 1995-2017.</p>
 
-<p><span class="font-weight-bold">0.56% – 112</span> The Last Words of Copernicus – Sarah Lancaster (1869)</p>
+<p><span class="font-weight-bold">0.56% (1 in 179)</span> – <span class="font-weight-bold">112</span> The Last Words of Copernicus – Sarah Lancaster (1869)</p>
 
-<p><span class="font-weight-bold">0.52% – 26</span> Samaria – Maggie Denson Cagle (1936)</p>
+<p><span class="font-weight-bold">0.52% (1 in 192)</span> – <span class="font-weight-bold">26</span> Samaria – Maggie Denson Cagle (1936)</p>
 
-<p><span class="font-weight-bold">0.43% – 460</span> Sardis – Sarah Lancaster (1869)</p>
+<p><span class="font-weight-bold">0.43% (1 in 233)</span> – <span class="font-weight-bold">460</span> Sardis – Sarah Lancaster (1869)</p>
 
-<p><span class="font-weight-bold">0.34% – 128</span> The Promised Land – M. Durham (1835)</p>
+<p><span class="font-weight-bold">0.34% (1 in 294)</span> – <span class="font-weight-bold">128</span> The Promised Land – M. Durham (1835)</p>
 
-<p><span class="font-weight-bold">0.34% – 504</span> Wood Street – Judy Hauff (1986)</p>
+<p><span class="font-weight-bold">0.34% (1 in 294)</span> – <span class="font-weight-bold">504</span> Wood Street – Judy Hauff (1986)</p>
 
-<p><span class="font-weight-bold">0.29% – 547</span> Granville – Judy Hauff (1986)</p>
+<p><span class="font-weight-bold">0.29% (1 in 345)</span> – <span class="font-weight-bold">547</span> Granville – Judy Hauff (1986)</p>
 
-<p><span class="font-weight-bold">0.27% – 551</span> Jacob’s Vision – Margaret Wright (1959)</p>
+<p><span class="font-weight-bold">0.27% (1 in 370)</span> – <span class="font-weight-bold">551</span> Jacob’s Vision – Margaret Wright (1959)</p>
 
-<p><span class="font-weight-bold">0.20% – 426t</span> Kelley – Amanda Burdette Denson (1908)</p>
+<p><span class="font-weight-bold">0.20% (1 in 500)</span> – <span class="font-weight-bold">426t</span> Kelley – Amanda Burdette Denson (1908)</p>
 
-<p><span class="font-weight-bold">0.16% – 77b</span> Holcombe – Charlene Wallace (1986)</p>
+<p><span class="font-weight-bold">0.16% (1 in 625)</span> – <span class="font-weight-bold">77b</span> Holcombe – Charlene Wallace (1986)</p>
 
-<p><span class="font-weight-bold">0.12% – 345b</span> I’m On My Journey Home – Sarah Lancaster (1859)</p>
+<p><span class="font-weight-bold">0.12% (1 in 833)</span> – <span class="font-weight-bold">345b</span> I’m On My Journey Home – Sarah Lancaster (1859)</p>
 
-<p><span class="font-weight-bold">0.12% – 406</span> New Harmony – M. L. A. Lancaster (1859)</p>
+<p><span class="font-weight-bold">0.12% (1 in 833)</span> – <span class="font-weight-bold">406</span> New Harmony – M. L. A. Lancaster (1859)</p>
 
-<p><span class="font-weight-bold">0.11% – 275b</span> Roll On – Cynthia Bass (1850)</p>
+<p><span class="font-weight-bold">0.11% (1 in 909)</span> – <span class="font-weight-bold">275b</span> Roll On – Cynthia Bass (1850)</p>
 
-<p><span class="font-weight-bold">0.09% – 543</span> Thou Art God – Ruth Denson Edwards (1959)</p>
+<p><span class="font-weight-bold">0.09% (1 in 1111)</span> – <span class="font-weight-bold">543</span> Thou Art God – Ruth Denson Edwards (1959)</p>
 
-<p><span class="font-weight-bold">0.09% – 446</span> Infinite Day – Ruth Denson Edwards (1936)</p>
+<p><span class="font-weight-bold">0.09% (1 in 1111)</span> – <span class="font-weight-bold">446</span> Infinite Day – Ruth Denson Edwards (1936)</p>
 
-<p><span class="font-weight-bold">0.09% – 368</span> Stony Point – Judy Hauff (1990)</p>
+<p><span class="font-weight-bold">0.09% (1 in 1111)</span> – <span class="font-weight-bold">368</span> Stony Point – Judy Hauff (1990)</p>
 
-<p><span class="font-weight-bold">0.07% – 534</span> New Georgia – Ruth Denson Edwards (1959)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1429)</span> – <span class="font-weight-bold">534</span> New Georgia – Ruth Denson Edwards (1959)</p>
 
-<p><span class="font-weight-bold">0.07% – 348t</span> Ainslie – Judy Hauff (1988)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1429)</span> – <span class="font-weight-bold">348t</span> Ainslie – Judy Hauff (1988)</p>
 
-<p><span class="font-weight-bold">0.07% – 466</span> Haynes Creek – Joyce Harrison (1988)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1429)</span> – <span class="font-weight-bold">466</span> Haynes Creek – Joyce Harrison (1988)</p>
 
-<p><span class="font-weight-bold">0.07% – 491</span> Oh, What Love – Eula Denson Johnson (1960)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1429)</span> – <span class="font-weight-bold">491</span> Oh, What Love – Eula Denson Johnson (1960)</p>
 
-<p><span class="font-weight-bold">0.04% – 374</span> Oh, Sing With Me! – P. R. Lancaster (1859)</p>
+<p><span class="font-weight-bold">0.04% (1 in 2500)</span> – <span class="font-weight-bold">374</span> Oh, Sing With Me! – P. R. Lancaster (1859)</p>
 
-<p><span class="font-weight-bold">0.04% – 367</span> Consolation – Annie Denson Aaron (1935)</p>
+<p><span class="font-weight-bold">0.04% (1 in 2500)</span> – <span class="font-weight-bold">367</span> Consolation – Annie Denson Aaron (1935)</p>
 
-<p><span class="font-weight-bold">0.03% – 545</span> The Pilgrim’s Way – Irene Parker Denson (1959)</p>
+<p><span class="font-weight-bold">0.03% (1 in 3333)</span> – <span class="font-weight-bold">545</span> The Pilgrim’s Way – Irene Parker Denson (1959)</p>
 
-<p><span class="font-weight-bold">0.02% – 465</span> Where There’s No Trouble and Sorrow – Doris W. DeLong (1960)</p>
+<p><span class="font-weight-bold">0.02% (1 in 5000)</span> – <span class="font-weight-bold">465</span> Where There’s No Trouble and Sorrow – Doris W. DeLong (1960)</p>
 
 <h2 id="toc_7">How I attributed gender to composers</h2>
 
@@ -172,8 +172,8 @@ Doris W. DeLong</p>
 
 <p>A song which is attributed in the book to a male composer is counted as being by a male composer even if it was written by a woman. A song which is attributed to a female composer is counted as being by a female composer even if it was written by a man. </p>
 
-<p id="unknown-gender">Songs where there is no clear composer are counted as unknown, neither male nor female. This includes songs where: a) only a surname is given (410t The Dying Californian – Ball), b) a songbook is given as the source of the tune (28t Aylesbury – A Book of Psalmody), and c) no source is given (43 Primrose Hill). I haven&#39;t delved into the sources of those tunes but it is very likely that the overwhelming majority of songs in these three groups were written by men.</p>
+<p id="unknown-gender">Songs where there is no clear composer are counted as unknown, neither male nor female. This includes songs where: a) only a surname is given (410t The Dying Californian – Ball), b) a songbook is given as the source of the tune (28t Aylesbury – A Book of Psalmody), and c) no source is given (43 Primrose Hill). I haven&#39;t delved into the sources of those tunes but it is very likely that the overwhelming majority of songs in these three groups was written by men.</p>
 
-<p>Many of the composers in the book use their initials instead of their first name. I assumed that they were male unless I found out that they were female. (M. Durham, P. R. Lancaster, and M. L. A. Lancaster are female composers.) It seems particularly likely that I&#39;ve made a mistake somewhere because of this assumption.</p>
+<p>Many of the composers in the book use their initials instead of their first name. I assumed that they were male unless I found out that they were female. (M. Durham, P. R. Lancaster, and M. L. A. Lancaster are female composers.) It seems particularly likely that I&#39;ve made mistakes because of this assumption.</p>
 
 <p>Finally, I have doubtless made mistakes in assigning a gender to some of the composers even considering the process above. The data I used is available here as a CSV spreadsheet. <a href="mailto:mail@edjohnsonwilliams.co.uk">Let me know</a> if you see any mistakes.</p>
