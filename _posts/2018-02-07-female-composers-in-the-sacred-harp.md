@@ -90,7 +90,7 @@ Doris W. DeLong</p>
 
 <p>19% (3) of female composers and 36% (69) of male composers individually have more than 1 song in the book.</p>
 
-<p>Some female composers who have 1 song in the 1991 edition had more songs in earlier editions.</p>
+<p>Some composers who have 1 song in the 1991 edition had more songs in earlier editions.</p>
 
 <h2 id="toc_4">How popular are the songs by female composers?</h2>
 
