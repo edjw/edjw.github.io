@@ -80,7 +80,7 @@ Doris W. DeLong</p>
 
 <h2 id="toc_2">What proportion of the composers in the book are female?</h2>
 
-<p>6.25% (16) of the named composers in the book are female. 93.75% (192) of the named composers are male. I didn&#39;t count songs in the book <a href="#unknown-gender">where I couldn&#39;t attribute a gender</a> to the composer for this. </p>
+<p>7.7% (16) of the named composers in the book are female. 92.3% (192) of the named composers are male. I didn&#39;t count songs in the book <a href="#unknown-gender">where I couldn&#39;t attribute a gender</a> to the composer for this. </p>
 
 <h2 id="toc_3">How likely are female composers to have multiple songs in the book?</h2>
 
