@@ -134,7 +134,7 @@ date: 2018-02-08 00:00:00 +0000
 
 <p><span class="font-weight-bold">0.05% (1 in 1912)</span> – <span class="font-weight-bold">26</span> Samaria – Maggie Denson Cagle</p>
 
-<p><span class="font-weight-bold">0.04% (1 in 2685 )</span> – <span class="font-weight-bold">367</span> Consolation – Annie Denson Aaron</p>
+<p><span class="font-weight-bold">0.04% (1 in 2685)</span> – <span class="font-weight-bold">367</span> Consolation – Annie Denson Aaron</p>
 
 <p><span class="font-weight-bold">0.04% (1 in 2740)</span> – <span class="font-weight-bold">374</span> Oh, Sing With Me! – P. R. Lancaster</p>
 
