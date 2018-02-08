@@ -56,11 +56,11 @@ date: 2018-02-08 00:00:00 +0000
 
 <h2 id="toc_1">What proportion of songs in the book are by female composers?</h2>
 
-<p>4.5% (23) of songs in the book are by female composers. 84.3% (469) of songs are by male composers. 11.2% (62) of songs are by composers of unknown gender.</p>
+<p>4.5% (25) of songs in the book are by female composers. 84.3% (467) of songs are by male composers. 11.2% (62) of songs are by composers of unknown gender.</p>
 
 <h2 id="toc_2">What proportion of the composers in the book are female?</h2>
 
-<p>8.7% (16) of the named composers in the book are female. 91.3% (192) of the named composers are male. I didn't count songs in the book <a href="#unknown-gender">where I couldn't attribute a gender</a> to the composer for this. </p>
+<p>8.7% (18) of the named composers in the book are female. 91.3% (190) of the named composers are male. I didn't count songs in the book <a href="#unknown-gender">where I couldn't attribute a gender</a> to the composer for this. </p>
 
 <h2 id="toc_3">How likely are female composers to have multiple songs in the book?</h2>
 
@@ -68,7 +68,7 @@ date: 2018-02-08 00:00:00 +0000
 
 <p>This is the best way I could find of describing the data.</p>
 
-<p>17% (3) of female composers and 36% (69) of male composers individually have more than 1 song in the book.</p>
+<p>17% (3) of female composers and 36% (67) of male composers individually have more than 1 song in the book.</p>
 
 <p>Some composers who have 1 song in the 1991 edition had more songs in earlier editions.</p>
 
@@ -80,7 +80,7 @@ date: 2018-02-08 00:00:00 +0000
 
 <h2 id="toc_6">What are the most popular songs by female composers?</h2>
 
-<p>If all 554 songs in the book were led equally, each song would be led 0.18% (1 in every 554) of the time. 9 of the 23 songs in the book by female composers are more popular than that.</p>
+<p>If all 554 songs in the book were led equally, each song would be led 0.18% (1 in every 554) of the time. 9 of the 25 songs in the book by female composers are more popular than that.</p>
 
 <!-- <a href="/uploads/2018/02/08/pc_all_songs_by_song_number_.png">
     <img src="/uploads/2018/02/08/pc_all_songs_by_song_number_.png" class="img-fluid" alt="">
