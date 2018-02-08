@@ -94,7 +94,7 @@ date: 2018-02-08 00:00:00 +0000
 
 <p><span class="font-weight-bold">0.43% (1 in 235)</span> – <span class="font-weight-bold">460</span> Sardis – Sarah Lancaster</p>
 
-<p><span class="font-weight-bold">128% (1 in 290)</span> – <span class="font-weight-bold">128</span> The Promised Land – M. Durham</p>
+<p><span class="font-weight-bold">0.34% (1 in 290)</span> – <span class="font-weight-bold">128</span> The Promised Land – M. Durham</p>
 
 <p><span class="font-weight-bold">0.34% (1 in 291)</span> – <span class="font-weight-bold">504</span> Wood Street – Judy Hauff</p>
 
