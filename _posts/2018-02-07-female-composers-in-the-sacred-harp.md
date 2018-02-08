@@ -104,16 +104,16 @@ Doris W. DeLong</p>
 
 <p>In 2004 – the year where songs by female composers were least popular – 1 in every 27 songs led at a minuted singing was by a female composer. By comparison, in 2017 – when female composers' songs were most popular – 1 in every 21 songs was by a female composer.</p>
 
-<a href="/uploads/2018/02/07/pc_all_songs_led_by_female_composer.png">
-    <img src="/uploads/2018/02/07/pc_all_songs_led_by_female_composer.png" class="img-fluid" alt="">
+<a href="/uploads/2018/02/07/pc_all_songs_led_by_female_composer_.png">
+    <img src="/uploads/2018/02/07/pc_all_songs_led_by_female_composer_.png" class="img-fluid" alt="">
 </a>
 
 <h2 id="toc_6">What are the most popular songs by female composers?</h2>
 
 <p>If all 554 songs in the book were led equally, each song would be led 0.18% (1 in every 554) of the time. Eight of the 23 songs in the book by female composers are more popular than that.</p>
 
-<a href="/uploads/2018/02/07/pc_all_songs_by_song_number.png">
-    <img src="/uploads/2018/02/07/pc_all_songs_by_song_number.png" class="img-fluid" alt="">
+<a href="/uploads/2018/02/07/pc_all_songs_by_song_number_.png">
+    <img src="/uploads/2018/02/07/pc_all_songs_by_song_number.png_" class="img-fluid" alt="">
 </a>
 
 <p>Here are the songs by female composers sorted by the percentage of all songs led in minuted singing 1995-2017 that that particular song has been led.
