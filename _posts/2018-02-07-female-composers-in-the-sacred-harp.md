@@ -56,11 +56,11 @@ date: 2018-02-08 00:00:00 +0000
 
 <h2 id="toc_1">What proportion of songs in the book are by female composers?</h2>
 
-<p>4.15% (23) of songs in the book are by female composers. 84.7% (469) of songs are by male composers. 11.2% (62) of songs are by composers of unknown gender.</p>
+<p>4.5% (23) of songs in the book are by female composers. 84.3% (469) of songs are by male composers. 11.2% (62) of songs are by composers of unknown gender.</p>
 
 <h2 id="toc_2">What proportion of the composers in the book are female?</h2>
 
-<p>7.7% (16) of the named composers in the book are female. 92.3% (192) of the named composers are male. I didn't count songs in the book <a href="#unknown-gender">where I couldn't attribute a gender</a> to the composer for this. </p>
+<p>8.7% (16) of the named composers in the book are female. 91.3% (192) of the named composers are male. I didn't count songs in the book <a href="#unknown-gender">where I couldn't attribute a gender</a> to the composer for this. </p>
 
 <h2 id="toc_3">How likely are female composers to have multiple songs in the book?</h2>
 
@@ -68,7 +68,7 @@ date: 2018-02-08 00:00:00 +0000
 
 <p>This is the best way I could find of describing the data.</p>
 
-<p>19% (3) of female composers and 36% (69) of male composers individually have more than 1 song in the book.</p>
+<p>17% (3) of female composers and 36% (69) of male composers individually have more than 1 song in the book.</p>
 
 <p>Some composers who have 1 song in the 1991 edition had more songs in earlier editions.</p>
 
@@ -76,11 +76,11 @@ date: 2018-02-08 00:00:00 +0000
 
 <p>I used <a href="https://fasola.org/minutes/stats/?s=c">the data from minuted Sacred Harp singings from 1995-2017</a> to work out how many times each song by a female composer has been called as a proportion of all the songs called.</p>
 
-<p>If all 554 songs in the book were led equally, 4.15% of all songs led in minuted singings would be by female composers. 3.7% of all songs led in minuted singings from 1995-2017 were by female composers. 1 in every 24 songs in the book is by a female composer. 1 in every 29 songs led at a minuted singing from 1995-2017 is by a female composer.</p>
+<p>If all 554 songs in the book were led equally, 4.15% of all songs led in minuted singings would be by female composers. 4.28% of all songs led in minuted singings from 1995-2017 were by female composers. 1 in every 24 songs in the book is by a female composer. 1 in every 23 songs led at a minuted singing from 1995-2017 is by a female composer.</p>
 
 <h2 id="toc_6">What are the most popular songs by female composers?</h2>
 
-<p>If all 554 songs in the book were led equally, each song would be led 0.18% (1 in every 554) of the time. 7 of the 23 songs in the book by female composers are more popular than that.</p>
+<p>If all 554 songs in the book were led equally, each song would be led 0.18% (1 in every 554) of the time. 9 of the 23 songs in the book by female composers are more popular than that.</p>
 
 <a href="/uploads/2018/02/08/pc_all_songs_by_song_number_.png">
     <img src="/uploads/2018/02/08/pc_all_songs_by_song_number_.png" class="img-fluid" alt="">
@@ -90,57 +90,61 @@ date: 2018-02-08 00:00:00 +0000
   
 <p>By comparison, 146 Hallelujah – the song in the book that has been led most often – accounts for 0.8% (1 in every 125) of all songs led 1995-2017.</p>
 
-<p><span class="font-weight-bold">0.56% (1 in 177)</span> – <span class="font-weight-bold">112</span> The Last Words of Copernicus – Sarah Lancaster (1869)</p>
+<p><span class="font-weight-bold">0.56% (1 in 177)</span> – <span class="font-weight-bold">112</span> The Last Words of Copernicus – Sarah Lancaster</p>
 
-<p><span class="font-weight-bold">0.43% (1 in 235)</span> – <span class="font-weight-bold">460</span> Sardis – Sarah Lancaster (1869)</p>
+<p><span class="font-weight-bold">0.43% (1 in 235)</span> – <span class="font-weight-bold">460</span> Sardis – Sarah Lancaster</p>
 
-<p><span class="font-weight-bold">0.34% (1 in 290)</span> – <span class="font-weight-bold">128</span> The Promised Land – M. Durham (1835)</p>
+<p><span class="font-weight-bold">128% (1 in 290)</span> – <span class="font-weight-bold">128</span> The Promised Land – M. Durham</p>
 
-<p><span class="font-weight-bold">0.34% (1 in 291</span> – <span class="font-weight-bold">504</span> Wood Street – Judy Hauff (1986)</p>
+<p><span class="font-weight-bold">0.34% (1 in 291)</span> – <span class="font-weight-bold">504</span> Wood Street – Judy Hauff</p>
 
-<p><span class="font-weight-bold">0.29% (1 in 341)</span> – <span class="font-weight-bold">547</span> Granville – Judy Hauff (1986)</p>
+<p><span class="font-weight-bold">0.34% (1 in 298)</span> – <span class="font-weight-bold">448b</span> The Grieved Soul – M. A. Hendon</p>
 
-<p><span class="font-weight-bold">0.27% (1 in 374)</span> – <span class="font-weight-bold">551</span> Jacob’s Vision – Margaret Wright (1959)</p>
+<p><span class="font-weight-bold">0.29% (1 in 341)</span> – <span class="font-weight-bold">547</span> Granville – Judy Hauff</p>
 
-<p><span class="font-weight-bold">0.20% (1 in 489)</span> – <span class="font-weight-bold">426t</span> Kelley – Amanda Burdette Denson (1908)</p>
+<p><span class="font-weight-bold">0.27% (1 in 374)</span> – <span class="font-weight-bold">551</span> Jacob's Vision – Margaret Wright</p>
 
-<p><span class="font-weight-bold">0.16% (1 in 627)</span> – <span class="font-weight-bold">77b</span> Holcombe – Charlene Wallace (1986)</p>
+<p><span class="font-weight-bold">0.20% (1 in 489)</span> – <span class="font-weight-bold">426t</span> Kelley – Amanda Burdette Denson</p>
 
-<p><span class="font-weight-bold">0.12% (1 in 811)</span> – <span class="font-weight-bold">345b</span> I’m On My Journey Home – Sarah Lancaster (1859)</p>
+<p><span class="font-weight-bold">0.19% (1 in 522)</span> – <span class="font-weight-bold">378b</span> Never Turn Back – F. E. Parkerson</p>
 
-<p><span class="font-weight-bold">0.12% (1 in 813)</span> – <span class="font-weight-bold">406</span> New Harmony – M. L. A. Lancaster (1859)</p>
+<p><span class="font-weight-bold">0.16% (1 in 627)</span> – <span class="font-weight-bold">77b</span> Holcombe – Charlene Wallace</p>
 
-<p><span class="font-weight-bold">0.11% (1 in 909)</span> – <span class="font-weight-bold">275b</span> Roll On – Cynthia Bass (1850)</p>
+<p><span class="font-weight-bold">0.12% (1 in 811)</span> – <span class="font-weight-bold">345b</span> I'm On My Journey Home – Sarah Lancaster</p>
 
-<p><span class="font-weight-bold">0.09% (1 in 1,059)</span> – <span class="font-weight-bold">368</span> Stony Point – Judy Hauff (1990)</p>
+<p><span class="font-weight-bold">0.12% (1 in 813)</span> – <span class="font-weight-bold">406</span> New Harmony – M. L. A. Lancaster</p>
 
-<p><span class="font-weight-bold">0.09% (1 in 1,059)</span> – <span class="font-weight-bold">446</span> Infinite Day – Ruth Denson Edwards (1936)</p>
+<p><span class="font-weight-bold">0.11% (1 in 909)</span> – <span class="font-weight-bold">275b</span> Roll On – Cynthia Bass</p>
 
-<p><span class="font-weight-bold">0.09% (1 in 1,093)</span> – <span class="font-weight-bold">543</span> Thou Art God – Ruth Denson Edwards (1959)</p>
+<p><span class="font-weight-bold">0.09% (1 in 1059)</span> – <span class="font-weight-bold">368</span> Stony Point – Judy Hauff</p>
 
-<p><span class="font-weight-bold">0.07% (1 in 1,351)</span> – <span class="font-weight-bold">491</span> Oh, What Love – Eula Denson Johnson (1960)</p>
+<p><span class="font-weight-bold">0.09% (1 in 1059)</span> – <span class="font-weight-bold">446</span> Infinite Day – Ruth Denson Edwards</p>
 
-<p><span class="font-weight-bold">0.07% (1 in 1,413)</span> – <span class="font-weight-bold">534</span> New Georgia – Ruth Denson Edwards (1959)</p>
+<p><span class="font-weight-bold">0.09% (1 in 1093)</span> – <span class="font-weight-bold">543</span> Thou Art God – Ruth Denson Edwards</p>
 
-<p><span class="font-weight-bold">0.07% (1 in 1,458)</span> – <span class="font-weight-bold">466</span> Haynes Creek – Joyce Harrison (1988)</p>
+<p><span class="font-weight-bold">0.08% (1 in 1259)</span> – <span class="font-weight-bold">438</span> The Marriage in the Skies – Sidney Burdette Denson</p>
 
-<p><span class="font-weight-bold">0.07% (1 in 1,530)</span> – <span class="font-weight-bold">348t</span> Ainslie – Judy Hauff (1988)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1351)</span> – <span class="font-weight-bold">491</span> Oh, What Love – Eula Denson Johnson</p>
 
-<p><span class="font-weight-bold">0.05% (1 in 1,912)</span> – <span class="font-weight-bold">26</span> Samaria – Maggie Denson Cagle (1936)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1413)</span> – <span class="font-weight-bold">534</span> New Georgia – Ruth Denson Edwards</p>
 
-<p><span class="font-weight-bold">0.04% (1 in 2,685)</span> – <span class="font-weight-bold">367</span> Consolation – Annie Denson Aaron (1935)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1458)</span> – <span class="font-weight-bold">466</span> Haynes Creek – Joyce Harrison</p>
 
-<p><span class="font-weight-bold">0.04% (1 in 2,740)</span> – <span class="font-weight-bold">374</span> Oh, Sing With Me! – P. R. Lancaster (1859)</p>
+<p><span class="font-weight-bold">0.07% (1 in 1530)</span> – <span class="font-weight-bold">348t</span> Ainslie – Judy Hauff</p>
 
-<p><span class="font-weight-bold">0.03% (1 in 3,095)</span> – <span class="font-weight-bold">545</span> The Pilgrim’s Way – Irene Parker Denson (1959)</p>
+<p><span class="font-weight-bold">0.05% (1 in 1912)</span> – <span class="font-weight-bold">26</span> Samaria – Maggie Denson Cagle</p>
 
-<p><span class="font-weight-bold">0.02% (1 in 4,054)</span> – <span class="font-weight-bold">465</span> Where There’s No Trouble and Sorrow – Doris W. DeLong (1960)</p>
+<p><span class="font-weight-bold">0.04% (1 in 2685 )</span> – <span class="font-weight-bold">367</span> Consolation – Annie Denson Aaron</p>
+
+<p><span class="font-weight-bold">0.04% (1 in 2740)</span> – <span class="font-weight-bold">374</span> Oh, Sing With Me! – P. R. Lancaster</p>
+
+<p><span class="font-weight-bold">0.03% (1 in 3095)</span> – <span class="font-weight-bold">545</span> The Pilgrim's Way – Irene Parker Denson</p>
 
 <h2 id="toc_5">Has the popularity of songs by female composers changed over time?</h2>
 
 <p>Songs by female composers <span class="font-italic">have</span> become more popular since 1995. </p>
 
-<p>In 1995 – the year where songs by female composers were least popular – 1 in every 30 songs led at a minuted singing was by a female composer. By comparison, in 2017 – when female composers' songs were most popular – 1 in every 24 songs was by a female composer.</p>
+<p>In 1995 – the year where songs by female composers were least popular – 1 in every 25 songs led at a minuted singing was by a female composer. By comparison, in 2017 – when female composers' songs were most popular – 1 in every 21 songs was by a female composer.</p>
 
 <a href="/uploads/2018/02/08/pc_all_songs_led_by_female_composer_.png">
     <img src="/uploads/2018/02/08/pc_all_songs_led_by_female_composer_.png" class="img-fluid" alt="">
