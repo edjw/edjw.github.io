@@ -19,7 +19,7 @@ date: 2018-02-07 00:00:00 +0000
 
 <p>There&#39;s <a href="#toc_7">a note at the bottom of this post</a> about how I attributed gender to the composers. The short version is that I used the name given in the book for the composer and didn&#39;t get into nuances.</p>
 
-<p>The data I created and used for this is available as a CSV spreadsheet here.</p>
+<p>The data I created and used for this is available here as <a href="/uploads/2018/02/08/sacredharpcomposers.xls">an Excel (.xls) spreadsheet</a>.</p>
 
 <p><a href="mailto:mail@edjohnsonwilliams.co.uk">Let me know</a> if you see errors, would like some more detail on an answer, or if there are other questions you&#39;d be interested in seeing the answer to.</p>
 
@@ -116,7 +116,7 @@ Doris W. DeLong</p>
     <img src="/uploads/2018/02/08/pc_all_songs_by_song_number_.png" class="img-fluid" alt="">
 </a>
 
-<p>Here are the songs by female composers sorted by the percentage of all songs led in minuted singing 1995-2017 that that particular song has been led. The percentages are rounded to 2 decimal places. The 1 in N figure is from the unrounded percentage.
+<p>Here are the songs by female composers sorted by the percentage of all songs led in minuted singing 1995-2017 that that particular song has been led. The percentages are rounded to 2 decimal places. The 1 in N figure is from the unrounded percentage which is why there&#39;s a slight discrepancy.
   
 <p>By comparison, 146 Hallelujah – the song in the book that has been led most often – accounts for 0.8% (1 in every 125) of all songs led 1995-2017.</p>
 
@@ -178,4 +178,4 @@ Doris W. DeLong</p>
 
 <p>Many of the composers in the book use their initials instead of their first name. I assumed that they were male unless I found out that they were female. (M. Durham, P. R. Lancaster, and M. L. A. Lancaster are female composers.) It seems particularly likely that I&#39;ve made mistakes because of this assumption.</p>
 
-<p>Finally, I have doubtless made mistakes in assigning a gender to some of the composers even considering the process above. The data I used is available here as a CSV spreadsheet. <a href="mailto:mail@edjohnsonwilliams.co.uk">Let me know</a> if you see any mistakes.</p>
+<p>Finally, I have doubtless made mistakes in assigning a gender to some of the composers even considering the process above. The data I used is available here as <a href="/uploads/2018/02/08/sacredharpcomposers.xls">an Excel (.xls) spreadsheet</a>. <a href="mailto:mail@edjohnsonwilliams.co.uk">Let me know</a> if you see any mistakes.</p>
