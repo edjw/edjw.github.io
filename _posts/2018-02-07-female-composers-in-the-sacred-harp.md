@@ -4,7 +4,7 @@ date: 2018-02-07 00:00:00 +0000
 ---
 <p>A couple of weeks ago, I was in a <a href="https://en.wikipedia.org/wiki/Sacred_Harp">Sacred Harp</a> singing school where a new singer asked whether there are female composers in the Sacred Harp. The singing school was in <a href="https://durhamsacredharp.co.uk">Durham, UK</a> (<a href="https://durhamsacredharp.co.uk">shameless plug</a>). I said something like, &quot;Oh yeah there are lots of great songs in here by women.&quot; A few days later I thought about the question again for a bit. I realised that although I liked several songs by women, I didn&#39;t really know that there were &quot;lots&quot; of female composers in the Sacred Harp. I&#39;d said that
   
-<p>I&#39;ve looked at the Sacred Harp and the minutes data to answer some questions that came to mind about female composers in the Sacred Harp.</p>
+<p>I&#39;ve looked at the Sacred Harp and the minutes data to answer some questions that came to mind about female composers in the Sacred Harp. I'm using the 1991 edition of the red "Denson book".</p>
 
 <ol>
   <li><a href="#toc_0">Who are the female composers in the book?</a></li>
@@ -89,6 +89,8 @@ Doris W. DeLong</p>
 <p>This is the best way I could find of describing the data.</p>
 
 <p>19% (3) of female composers and 36% (69) of male composers individually have more than 1 song in the book.</p>
+
+<p>Some female composers who have 1 song in the 1991 edition had more songs in earlier editions.</p>
 
 <h2 id="toc_4">How popular are the songs by female composers?</h2>
 
