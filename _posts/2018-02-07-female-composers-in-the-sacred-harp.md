@@ -2,8 +2,8 @@
 title: Female Composers in the Sacred Harp
 date: 2018-02-07 00:00:00 +0000
 ---
-<p>I was recently in a <a href="https://en.wikipedia.org/wiki/Sacred_Harp">Sacred Harp</a> singing school where a new singer asked about female composers in the Sacred Harp. The singing school was in <a href="https://durhamsacredharp.co.uk">Durham, UK</a> (<a href="https://durhamsacredharp.co.uk">shameless plug</a>). I said something like, &quot;Oh yeah there are lots of great songs in here by women.&quot; A few days later I thought about the question again for a bit and realised I had no idea what I had based my answer on other than that I like a few songs that I knew were by women.</p>
-
+<p>A couple of weeks ago, I was in a <a href="https://en.wikipedia.org/wiki/Sacred_Harp">Sacred Harp</a> singing school where a new singer asked whether there are female composers in the Sacred Harp. The singing school was in <a href="https://durhamsacredharp.co.uk">Durham, UK</a> (<a href="https://durhamsacredharp.co.uk">shameless plug</a>). I said something like, &quot;Oh yeah there are lots of great songs in here by women.&quot; A few days later I thought about the question again for a bit. I realised that although I liked several songs by women, I didn&#39;t really know that there were &quot;lots&quot; of female composers in the Sacred Harp. I&#39;d said that
+  
 <p>I&#39;ve looked at the Sacred Harp and the minutes data to answer some questions that came to mind about female composers in the Sacred Harp.</p>
 
 <ol>
