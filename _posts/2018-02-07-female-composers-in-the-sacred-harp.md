@@ -82,9 +82,9 @@ date: 2018-02-08 00:00:00 +0000
 
 <p>If all 554 songs in the book were led equally, each song would be led 0.18% (1 in every 554) of the time. 9 of the 25 songs in the book by female composers are more popular than that.</p>
 
-<!-- <a href="/uploads/2018/02/08/pc_all_songs_by_song_number_.png">
+<a href="/uploads/2018/02/08/pc_all_songs_by_song_number_.png">
     <img src="/uploads/2018/02/08/pc_all_songs_by_song_number_.png" class="img-fluid" alt="">
-</a> -->
+</a>
 
 <p>Here are the songs by female composers sorted by the percentage of all songs led in minuted singing 1995-2017 that that particular song has been led. The percentages are rounded to 2 decimal places. The 1 in N figure is from the unrounded percentage which is why there's a slight discrepancy sometimes.
   
@@ -146,9 +146,9 @@ date: 2018-02-08 00:00:00 +0000
 
 <p>In 1995 – the year where songs by female composers were least popular – 1 in every 25 songs led at a minuted singing was by a female composer. By comparison, in 2017 – when female composers' songs were most popular – 1 in every 21 songs was by a female composer.</p>
 
-<!-- <a href="/uploads/2018/02/08/pc_all_songs_led_by_female_composer_.png">
+<a href="/uploads/2018/02/08/pc_all_songs_led_by_female_composer_.png">
     <img src="/uploads/2018/02/08/pc_all_songs_led_by_female_composer_.png" class="img-fluid" alt="">
-</a> -->
+</a>
 
 <h2 id="toc_7">How I attributed gender to composers</h2>
 
