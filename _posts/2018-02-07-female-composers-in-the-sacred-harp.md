@@ -166,8 +166,8 @@ date: 2018-02-08 00:00:00 +0000
 
 <p><strong>+2.84%</strong> – <strong>466</strong> Haynes Creek – Joyce Harrison</p>
 
-<a href="/uploads/2018/02/12/biggest_increase_popularity.png">
-    <img src="/uploads/2018/02/12/biggest_increase_popularity.png" class="img-fluid" alt="">
+<a href="/uploads/2018/02/12/biggest_increase_popularity_.png">
+    <img src="/uploads/2018/02/12/biggest_increase_popularity_.png" class="img-fluid" alt="">
 </a>
 
 <p>The four songs that have decreased the most in popularity in that timeframe are:</p>
@@ -180,8 +180,8 @@ date: 2018-02-08 00:00:00 +0000
 
 <p><strong>-2.74%</strong> – <strong>378b</strong> Never Turn Back – F. E. Parkerson</p>
 
-<a href="/uploads/2018/02/12/biggest_decrease_popularity.png">
-    <img src="/uploads/2018/02/12/biggest_decrease_popularity.png" class="img-fluid" alt="">
+<a href="/uploads/2018/02/12/biggest_decrease_popularity_.png">
+    <img src="/uploads/2018/02/12/biggest_decrease_popularity_.png" class="img-fluid" alt="">
 </a>
 
 <h2 id="toc_7">How I attributed gender to composers</h2>
