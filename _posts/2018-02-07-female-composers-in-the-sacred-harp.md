@@ -15,7 +15,7 @@ date: 2018-02-08 00:00:00 +0000
   <li><a href="#toc_4">How popular are the songs by female composers?</a></li>
   <li><a href="#toc_6">What are the most popular songs by female composers?</a></li>
   <li><a href="#toc_5">Has the popularity of songs by female composers changed over time?</a></li>
-
+  <li><a href="#toc_8">Which songs by female composers have changed the most in the popularity over time?</a></li>
 </ol>
 
 <p>There's <a href="#toc_7">a note at the bottom of this post</a> about how I attributed gender to the composers. The short version is that I used the name given in the book for the composer and didn't get into nuances.</p>
@@ -148,6 +148,40 @@ date: 2018-02-08 00:00:00 +0000
 
 <a href="/uploads/2018/02/08/pc_all_songs_led_by_female_composer_.png">
     <img src="/uploads/2018/02/08/pc_all_songs_led_by_female_composer_.png" class="img-fluid" alt="">
+</a>
+
+<h2 id="toc_8">Which songs by female composers have changed the most in the popularity over time?</h2>
+
+<p>The data here compares the popularity of songs by female composers between a) 1995-1997 and b) 2015-2017 as a 3 year average % of all songs by female composers.</p>
+
+<p>Choosing a 3 year average seemed a bit arbitary but the same songs came out on top whether I compared a 1 year average (1995 vs 2017) or a 2 (1995-1997 vs 2016-2017), 4, or 5 year average. The eight songs below were all in the top 10 for standard deviation in popularity of female composers&#39; song across the full period of 1995-2017. This suggests the popularity of these songs has varied markedly across the full period.</p>
+
+<p>The four songs by female composers that have increased in popularity the most are:</p>
+
+<p><strong>+4.52%</strong> – <strong>547</strong> Granville – Judy Hauff</p>
+
+<p><strong>+3.13%</strong> – <strong>504</strong> Wood Street – Judy Hauff</p>
+
+<p><strong>+2.93</strong> – <strong>534</strong> New Georgia – Ruth Denson Edwards</p>
+
+<p><strong>+2.84%</strong> – <strong>466</strong> Haynes Creek – Joyce Harrison</p>
+
+<a href="/uploads/2018/02/12/biggest_increase_popularity.png">
+    <img src="/uploads/2018/02/12/biggest_increase_popularity.png" class="img-fluid" alt="">
+</a>
+
+<p>The four songs that have decreased the most in popularity in that timeframe are:</p>
+
+<p><strong>-4.8%</strong> – <strong>460</strong> Sardis – Sarah Lancaster</p>
+
+<p><strong>-4.64%</strong> – <strong>426t</strong> Kelley – Amanda Burdette Denson</p>
+
+<p><strong>-3.22%</strong> – <strong>275b</strong> Roll On – Cynthia Bass</p>
+
+<p><strong>-2.74%</strong> – <strong>378b</strong> Never Turn Back – F. E. Parkerson</p>
+
+<a href="/uploads/2018/02/12/biggest_decrease_popularity.png">
+    <img src="/uploads/2018/02/12/biggest_decrease_popularity.png" class="img-fluid" alt="">
 </a>
 
 <h2 id="toc_7">How I attributed gender to composers</h2>
