@@ -2,5 +2,181 @@
 title: When does Easter Sunday fall on April Fools' Day?
 date: 2018-04-01 00:00:00 +0000
 ---
-<p>Today is both <a href="https://en.wikipedia.org/wiki/April_Fools'_Day">April Fools' Day</a> and <a href="https://en.wikipedia.org/wiki/Easter">Easter Sunday</a> (in <a href="https://en.wikipedia.org/wiki/Western_Christianity">Western Christianity</a>).</p><p>When did this last happen and when will it happen again?</p><p>This is relatively straightforward to find out thanks to Python and specifically the <a href="https://github.com/dateutil/dateutil">dateutil</a> module which makes it easy to find out the date of Easter Sunday  for any given year between 1583 and 4099. (Code below)<br></p><p>The last time April Fools' Day was on Easter Sunday was 1956. And the next time will be in 2029.<br></p><p>Here's a full list of years where Western Easter Sunday was on the same day as April Fools' Day.<br></p><p>1584</p><p>1646</p><p>1657</p><p>1668</p><p>1714</p><p>1725</p><p>1736</p><p>1804</p><p>1866</p><p>1877</p><p>1888</p><p>1923</p><p>1934</p><p>1945</p><p>1956</p><p>2018</p><p>2029</p><p>2040</p><p>2108</p><p>2170</p><p>2181</p><p>2192</p><p>2238</p><p>2249</p><p>2260</p><p>2306</p><p>2317</p><p>2328</p><p>2401</p><p>2412</p><p>2485</p><p>2496</p><p>2553</p><p>2564</p><p>2610</p><p>2621</p><p>2632</p><p>2700</p><p>2762</p><p>2773</p><p>2784</p><p>2857</p><p>2863</p><p>2868</p><p>2925</p><p>2936</p><p>3004</p><p>3077</p><p>3088</p><p>3145</p><p>3156</p><p>3235</p><p>3240</p><p>3308</p><p>3387</p><p>3392</p><p>3449</p><p>3455</p><p>3460</p><p>3517</p><p>3528</p><p>3601</p><p>3607</p><p>3612</p><p>3691</p><p>3696</p><p>3759</p><p>3764</p><p>3821</p><p>3827</p><p>3832</p><p>3900</p><p>3973</p><p>3979</p><p>3984</p><p>4063</p><p>4068</p><p>4074</p><h2>The Code<br></h2><p><code>from dateutil.easter import easter</code></p><p><code>for year in range(1583, 4100):</code></p><p><code>&nbsp;&nbsp; easter_full_date = easter(year)<br>&nbsp;&nbsp;&nbsp; easter_full_date = str(easter_full_date)<br>&nbsp;&nbsp;&nbsp; year, month, date = easter_full_date.split("-")</code></p><p><code>&nbsp;&nbsp;&nbsp; if date == "01" and month == "04":<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; print(year)
-  </code></p>
+Today is both [April Fools' Day](https://en.wikipedia.org/wiki/April_Fools'_Day) and [Easter Sunday](https://en.wikipedia.org/wiki/Easter) (in [Western Christianity](https://en.wikipedia.org/wiki/Western_Christianity)).
+
+When did this last happen and when will it happen again?
+
+This is relatively straightforward to find out thanks to Python and specifically the [dateutil](https://github.com/dateutil/dateutil) module which makes it easy to find out the date of Easter Sunday for any given year between 1583 and 4099. (Code below)
+
+The last time April Fools' Day was on Easter Sunday was 1956. And the next time will be in 2029.
+
+Here's a full list of years where Western Easter Sunday was on the same day as April Fools' Day.
+
+1584
+
+1646
+
+1657
+
+1668
+
+1714
+
+1725
+
+1736
+
+1804
+
+1866
+
+1877
+
+1888
+
+1923
+
+1934
+
+1945
+
+1956
+
+2018
+
+2029
+
+2040
+
+2108
+
+2170
+
+2181
+
+2192
+
+2238
+
+2249
+
+2260
+
+2306
+
+2317
+
+2328
+
+2401
+
+2412
+
+2485
+
+2496
+
+2553
+
+2564
+
+2610
+
+2621
+
+2632
+
+2700
+
+2762
+
+2773
+
+2784
+
+2857
+
+2863
+
+2868
+
+2925
+
+2936
+
+3004
+
+3077
+
+3088
+
+3145
+
+3156
+
+3235
+
+3240
+
+3308
+
+3387
+
+3392
+
+3449
+
+3455
+
+3460
+
+3517
+
+3528
+
+3601
+
+3607
+
+3612
+
+3691
+
+3696
+
+3759
+
+3764
+
+3821
+
+3827
+
+3832
+
+3900
+
+3973
+
+3979
+
+3984
+
+4063
+
+4068
+
+4074
+
+## The Code
+
+`from dateutil.easter import easter`
+
+`for year in range(1583, 4100):`
+
+`   easter_full_date = easter(year)  
+    easter_full_date = str(easter_full_date)  
+    year, month, date = easter_full_date.split("-")`
+
+`    if date == "01" and month == "04":  
+        print(year)`
