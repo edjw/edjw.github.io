@@ -6,11 +6,11 @@ date: 2018-04-01 00:00:00 +0000
 
 When did this last happen and when will it happen again?
 
-This is relatively straightforward to find out thanks to Python and specifically the [dateutil](https://github.com/dateutil/dateutil) module which makes it easy to find out the date of Easter Sunday for any given year between 1583 and 4099. (Code right at the bottom of this post.)
+This is relatively straightforward to find out thanks to [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and specifically the [dateutil](https://github.com/dateutil/dateutil) module. Dateutil makes it easy to find out the date of Easter Sunday for any given year between 1583 and 4099. The code I used for this is right at the bottom of this post.
 
 **The last time April Fools' Day was on Easter Sunday was 1956. And the next time will be in 2029.**
 
-Here's a full list of years where Western Easter Sunday was on the same day as April Fools' Day.
+Here's a full list of years where Western Easter Sunday is on April Fools' Day.
 
 1584
 1646
