@@ -2,13 +2,13 @@
 title: When does Easter Sunday fall on April Fools' Day?
 date: 2018-04-01 00:00:00 +0000
 ---
-Today is both [April Fools' Day](https://en.wikipedia.org/wiki/April_Fools'_Day) and [Easter Sunday](https://en.wikipedia.org/wiki/Easter) (in [Western Christianity](https://en.wikipedia.org/wiki/Western_Christianity)).
+**Today is both [April Fools' Day](https://en.wikipedia.org/wiki/April_Fools'_Day) and [Easter Sunday](https://en.wikipedia.org/wiki/Easter) (in [Western Christianity](https://en.wikipedia.org/wiki/Western_Christianity)).**
 
 When did this last happen and when will it happen again?
 
 This is relatively straightforward to find out thanks to Python and specifically the [dateutil](https://github.com/dateutil/dateutil) module which makes it easy to find out the date of Easter Sunday for any given year between 1583 and 4099. (Code right at the bottom of this post.)
 
-The last time April Fools' Day was on Easter Sunday was 1956. And the next time will be in 2029.
+**The last time April Fools' Day was on Easter Sunday was 1956. And the next time will be in 2029.**
 
 Here's a full list of years where Western Easter Sunday was on the same day as April Fools' Day.
 
