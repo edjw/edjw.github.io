@@ -44,6 +44,6 @@ a:focus {
     font-size: 1.5rem;
 }
 
-.post-title a {
+.post-title > a {
     border: none;
 }
