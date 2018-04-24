@@ -99,7 +99,7 @@ from dateutil.easter import easter
 for year in range(1583, 4100):
     easter_full_date = easter(year)  
     easter_full_date = str(easter_full_date)  
-    year, month, date = easter_full_date.split("-")`
+    year, month, date = easter_full_date.split("-")
 
     if date == "01" and month == "04":  
         print(year)
