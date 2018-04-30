@@ -46,5 +46,6 @@ a:focus {
 .post-title>a {
     border: none;
     text-decoration: underline;
+    -webkit-text-decoration-color: #2341C1;
     text-decoration-color: #2341C1;
 }
