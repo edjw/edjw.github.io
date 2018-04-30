@@ -31,7 +31,6 @@ a:focus {
     font-weight: 600;
     line-height: 1.125;
     font-size: 2rem;
-    text-decoration: underline;
 }
 
 .post-date {
@@ -44,6 +43,8 @@ a:focus {
     font-size: 1.5rem;
 }
 
-.title>a, .post-title>a {
+.post-title>a {
     border: none;
+    text-decoration: underline;
+    text-decoration-color: #2341C1;
 }
