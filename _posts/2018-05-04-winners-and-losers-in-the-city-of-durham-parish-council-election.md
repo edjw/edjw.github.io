@@ -16,21 +16,19 @@ Nearly all the candidates stood for a party but you voted for the candidates rat
 
 <style type="text/css">
 .tg {
-    border-collapse: collapse;
-    border-spacing: 0;
+    /* border-collapse: collapse;
+    border-spacing: 0; */
 }
 
 .tg td {
-    overflow: hidden;
+    /* overflow: hidden;
     word-break: normal;
-    border-color: black;
+    border-color: black; */
 }
 
 .tg th {
     
-    font-size: 14px;
-    font-weight: normal;
-    padding: 10px 5px;
+
     border-style: solid;
     border-width: 1px;
     overflow: hidden;
@@ -68,7 +66,7 @@ Nearly all the candidates stood for a party but you voted for the candidates rat
     vertical-align: top
 }
 </style>
-<table class="tg">
+<table class="tg table-responsive">
   <tr>
     <th class="tg-9hbo">PARTY</th>
     <th class="tg-9hbo">VOTES</th>
