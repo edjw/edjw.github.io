@@ -142,14 +142,16 @@ vertical-align: top
 <td class="tg-le8v">353</td>
 <td class="tg-le8v">2.1</td>
 <td class="tg-le8v">0</td>
-</tr>
+</tr>  
 </table>
 
 ---
 
 1. Three Green candidates in Neville's Cross got more votes than the average Labour candidate. But only one Green candidate was elected whereas two Labour candidates were elected.
-2. One Lib Dem candidate got more votes than the average Labour and Green candidate. But she didn't get elected even though Labour and the Greens won two seats and one seat respectively.
-3. It looks like Green voters ran out of Green candidates to vote for. With their remaining votes it seems likely that they voted for Labour candidates with the effect of boosting Labour candidates above Green candidates.
+2. Green candidates got more votes on average than Labour candidates but two Labour candidates were elected and only one Green candidate was elected.
+3. One Lib Dem candidate got more votes than the average Labour and Green candidate. But she didn't get elected even though Labour and the Greens won two seats and one seat respectively.
+
+It looks like Green voters ran out of Green candidates to vote for. With their remaining votes it seems likely that they voted for Labour candidates with the effect of boosting Labour candidates above Green candidates.
 
 It's important to note that two Labour candidates got significantly more support than the other Labour candidates. I'm not sure but lots of voters could know them personally.
 
