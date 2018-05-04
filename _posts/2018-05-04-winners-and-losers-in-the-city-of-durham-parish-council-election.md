@@ -12,7 +12,7 @@ The [parish council is divided into three wards](https://www.durham.gov.uk/media
 
 Nearly all the candidates stood for a party but you voted for the candidates rather than the party. If you live in a ward with six councillors, you can vote for up to six candidates and the six candidates with the most votes win. It's [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) in a multi-member constituency.
 
-I ran some numbers on the results. Fun times.
+I ran [some numbers on the results](https://docs.google.com/spreadsheets/d/1Zd9AObNK9Lg9brqe4iERKLBiPNTHiYNtGNFHWOtvqRo/edit?usp=sharing). Fun times. (Thank to [Tabula](https://github.com/tabulapdf/tabula) and specifically the [tabula-py](https://github.com/chezou/tabula-py) Python wrapper for Tabula that helped with exporting the table of results from Durham County Council's PDFs into CSVs.)
 
 [**Aggregated _Neville's Cross_ Results**](https://www.durham.gov.uk/media/24669/Declaration-of-Result-City-of-Durham-Parish-Nevilles-Cross-Ward/pdf/DeclarationOfResult-CityOfDurhamNevillesCrossWard1.pdf)
 
@@ -155,6 +155,4 @@ If you support a single party, vote for all the candidates from that party and d
 
 If you're a smaller party, do everything you can to have as many candidates as you can. It ensures that supporters of your party just vote for your candidates and don't boost other parties' candidates above your own.
 
----
-
-PS. Thank to [Tabula](https://github.com/tabulapdf/tabula) and specifically the [tabula-py](https://github.com/chezou/tabula-py) Python wrapper for Tabula that helped with exporting the table of results from Durham Council's PDFs into CSVs.
+Despite the quirks, for a first-past-the-post election, these results were actually remarkably proportional. I [used this website](http://www.dhondt.eu/js/) to project what the results would have been under one type of proportional representation where voters voted for a party rather than individual candidates. The Greens would have won two extra seats at the expense of two Independent candidates.
