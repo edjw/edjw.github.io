@@ -40,7 +40,7 @@ border-color: black;
 }
 
 .tg .tg-2ag8 {
-background-color: #6665cd;
+background-color: #1465b6;
 vertical-align: top
 }
 
