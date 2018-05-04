@@ -27,11 +27,10 @@ Nearly all the candidates stood for a party but you voted for the candidates rat
 }
 
 .tg th {
-    
-
+    padding: 10px 5px;
     border-style: solid;
     border-width: 1px;
-    overflow: hidden;
+    /* overflow: hidden; */
     word-break: normal;
     border-color: black;
 }
@@ -65,6 +64,7 @@ Nearly all the candidates stood for a party but you voted for the candidates rat
     background-color: #c0c0c0;
     vertical-align: top
 }
+
 </style>
 <table class="tg table-responsive">
   <tr>
