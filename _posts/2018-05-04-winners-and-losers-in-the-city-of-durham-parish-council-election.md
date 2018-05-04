@@ -153,11 +153,11 @@ vertical-align: top
 
 It looks like Green voters ran out of Green candidates to vote for. With their remaining votes it seems likely that they voted for Labour candidates with the effect of boosting Labour candidates above Green candidates.
 
-It's important to note that two Labour candidates got significantly more support than the other Labour candidates. I'm not sure but lots of voters could know them personally.
+It's important to note that two Labour candidates who won seats got significantly more support than the other Labour candidates. I'm not sure but lots of voters could know them personally.
 
 So key takeaways are:
 
-1. If you support a single party, vote for all the candidates from that party and don't vote for any others. If you do, you risk boosting them above the candidates from your most-preferred party.
-2. If you're a smaller party, do everything you can to have as many candidates as you can. It ensures that supporters of your party just vote for your candidates and don't boost other parties' candidates above your own.
+1. If you support a single party, vote for all the candidates from that party and don't vote for any others. Just don't use all your votes. If you do, you risk boosting them above the candidates from your most-preferred party.
+2. If you're a political party in one of these elections, do everything you can to field the maximum number of candidates. It ensures that supporters of your party just vote for your candidates and don't boost other parties' candidates above your most popular candidate(s).
 
 Despite the quirks, for a first-past-the-post election, these results were actually remarkably proportional. I [used this website](http://www.dhondt.eu/js/) to project what the results would have been under one type of proportional representation where voters voted for a party rather than individual candidates. The Greens would have won two extra seats overall across the city at the expense of two Independent candidates.
