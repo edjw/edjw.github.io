@@ -12,7 +12,8 @@ The [parish council is divided into three wards](https://www.durham.gov.uk/media
 
 Nearly all the candidates stood for a party but you voted for the candidates rather than the party. If you live in a ward with six councillors, you can vote for up to six candidates and the six candidates with the most votes win. It's [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) in a multi-member constituency.
 
-I ran [some numbers on the results](https://docs.google.com/spreadsheets/d/1Zd9AObNK9Lg9brqe4iERKLBiPNTHiYNtGNFHWOtvqRo/edit?usp=sharing). Fun times. (Thank to [Tabula](https://github.com/tabulapdf/tabula) and specifically the [tabula-py](https://github.com/chezou/tabula-py) Python wrapper for Tabula that helped with exporting the table of results from Durham County Council's PDFs into CSVs.)
+I ran [some numbers on the results](https://docs.google.com/spreadsheets/d/1Zd9AObNK9Lg9brqe4iERKLBiPNTHiYNtGNFHWOtvqRo/edit?usp=sharing). Fun times.
+(Thanks to [Tabula](https://github.com/tabulapdf/tabula) and specifically the [tabula-py](https://github.com/chezou/tabula-py) Python wrapper for Tabula that helped with exporting the table of results from Durham County Council's PDFs into CSVs.)
 
 [**Aggregated _Neville's Cross_ Results**](https://www.durham.gov.uk/media/24669/Declaration-of-Result-City-of-Durham-Parish-Nevilles-Cross-Ward/pdf/DeclarationOfResult-CityOfDurhamNevillesCrossWard1.pdf)
 
