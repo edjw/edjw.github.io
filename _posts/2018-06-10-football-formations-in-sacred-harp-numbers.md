@@ -6,11 +6,11 @@ This is a very silly post.
 
 I took all [the song numbers](https://fasola.org/indexes/1991/?v=pagenum) from [the Sacred Harp](https://en.wikipedia.org/wiki/Sacred_Harp) and asked the question, "Which song numbers in the Sacred Harp are football/soccer formations?"
 
-The answer (if you only count **proper** formations with a forward) is:
+The answer (if you only count modern, **proper** formations with a forward) is:
 
 > _343_, _352_, _361_, _424_, _433_, _442_, _451_, _523_, _532_, and _541._
 
-There's a great book called [Inverting the Pyramid](https://www.orionbooks.co.uk/books/detail.page?isbn=9781409176824) that's about the history of football formations. A really popular formation in the 1880s was _2-3-5_.
+There's a great book called [Inverting the Pyramid](https://www.orionbooks.co.uk/books/detail.page?isbn=9781409176824) that's about the history of football formations. A really popular formation in the 1880s was _2-3-5_. Some teams in recent years have also experimented with playing without a forward.
 
 So, if you count all possible formations with 10 outfield players and at least 1 player in defence and midfield (but not necessarily [at least 1 forward](https://en.wikipedia.org/wiki/Forward_(association_football)#False_9)) then the full list is:
 
