@@ -8,7 +8,7 @@ I went and made a list of those numbers.
 
 <table>
   <tr>
-    <th>Square root</th>
+    <th>Square root   </th>
     <th>Song number</th>
   </tr>
   <tr>
