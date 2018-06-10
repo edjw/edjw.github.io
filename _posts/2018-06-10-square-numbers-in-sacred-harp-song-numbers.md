@@ -8,7 +8,7 @@ I went and made a list of those numbers.
 
 <table>
   <tr>
-    <th>Square number</th>
+    <th>Square root</th>
     <th>Song number</th>
   </tr>
   <tr>
@@ -92,6 +92,7 @@ I went and made a list of those numbers.
     <td>484</td>
   </tr>
 </table>
+
 
 And the code I used to find this…
 
