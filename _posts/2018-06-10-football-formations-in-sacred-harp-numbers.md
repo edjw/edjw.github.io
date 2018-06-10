@@ -8,13 +8,13 @@ I took all [the song numbers](https://fasola.org/indexes/1991/?v=pagenum) from [
 
 The answer (if you only count modern, **proper** formations with a forward) is:
 
-> _343_, _352_, _361_, _424_, _433_, _442_, _451_, _523_, _532_, and _541._
+> _343_, _352_, _361_, _424_, _433_, _442_, _451_, _523_, _532_, and _541_
 
 There's a great book called [Inverting the Pyramid](https://www.orionbooks.co.uk/books/detail.page?isbn=9781409176824) that's about the history of football formations. A really popular formation in the 1880s was _2-3-5_. Some teams in recent years have also experimented with playing without a forward.
 
 So, if you count all possible formations with 10 outfield players and at least 1 player in defence and midfield (but not necessarily [at least 1 forward](https://en.wikipedia.org/wiki/Forward_(association_football)#False_9)) then the full list is:
 
-> _118_, _127_, _136_, _145t_, _145b_, _154_, _163t_, _163b_, _172_, _181_, _217_, _235_, _271t_, _271b,_ _280_, _316_, _325_, _334_, _343_, _352_, _361_, _370_, _415_, _424_, _433_, _442_, _451_, _460_, _523_, _532_, _541_, _550_
+> _118_, _127_, _136_, _145t_, _145b_, _154_, _163t_, _163b_, _172_, _181_, _217_, _235_, _271t_, _271b,_ _280_, _316_, _325_, _334_, _343_, _352_, _361_, _370_, _415_, _424_, _433_, _442_, _451_, _460_, _523_, _532_, _541_, and _550_
 
 And the code I used to get the answers to this very silly question…
 
