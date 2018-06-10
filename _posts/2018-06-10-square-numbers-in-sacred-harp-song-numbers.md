@@ -7,94 +7,93 @@ A singer at the [Sacred Harp singing in Durham](https://durhamsacredharp.co.uk/)
 I went and made a list of those numbers.
 
 <table>
-  <tr>
-    <th>Square root   </th>
-    <th>Song number</th>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>36t</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>36b</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>49t</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>49b</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>64</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>81t</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>81b</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>100</td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td>121<br></td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td>144</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td>169</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td>196</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td>225t</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td>225b</td>
-  </tr>
-  <tr>
-    <td>17</td>
-    <td>289</td>
-  </tr>
-  <tr>
-    <td>18</td>
-    <td>324</td>
-  </tr>
-  <tr>
-    <td>19</td>
-    <td>361</td>
-  </tr>
-  <tr>
-    <td>20</td>
-    <td>400</td>
-  </tr>
-  <tr>
-    <td>21</td>
-    <td>441</td>
-  </tr>
-  <tr>
-    <td>22</td>
-    <td>484</td>
-  </tr>
+<tr>
+<th>Square root   </th>
+<th>Song number</th>
+</tr>
+<tr>
+<td>6</td>
+<td>36t</td>
+</tr>
+<tr>
+<td>6</td>
+<td>36b</td>
+</tr>
+<tr>
+<td>7</td>
+<td>49t</td>
+</tr>
+<tr>
+<td>7</td>
+<td>49b</td>
+</tr>
+<tr>
+<td>8</td>
+<td>64</td>
+</tr>
+<tr>
+<td>9</td>
+<td>81t</td>
+</tr>
+<tr>
+<td>9</td>
+<td>81b</td>
+</tr>
+<tr>
+<td>10</td>
+<td>100</td>
+</tr>
+<tr>
+<td>11</td>
+<td>121<br></td>
+</tr>
+<tr>
+<td>12</td>
+<td>144</td>
+</tr>
+<tr>
+<td>13</td>
+<td>169</td>
+</tr>
+<tr>
+<td>14</td>
+<td>196</td>
+</tr>
+<tr>
+<td>15</td>
+<td>225t</td>
+</tr>
+<tr>
+<td>15</td>
+<td>225b</td>
+</tr>
+<tr>
+<td>17</td>
+<td>289</td>
+</tr>
+<tr>
+<td>18</td>
+<td>324</td>
+</tr>
+<tr>
+<td>19</td>
+<td>361</td>
+</tr>
+<tr>
+<td>20</td>
+<td>400</td>
+</tr>
+<tr>
+<td>21</td>
+<td>441</td>
+</tr>
+<tr>
+<td>22</td>
+<td>484</td>
+</tr>
 </table>
 
-
-And the code I used to find this…
+And the Python code I used to find this…
 
     import math
     
