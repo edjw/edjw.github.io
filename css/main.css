@@ -49,3 +49,8 @@ a:focus {
     -webkit-text-decoration-color: #2341C1;
     text-decoration-color: #2341C1;
 }
+
+pre.highlight {
+    border-top: 1px solid #2341C1;
+    border-bottom: 1px solid #2341C1;
+}
