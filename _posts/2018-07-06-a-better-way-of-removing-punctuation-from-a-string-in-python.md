@@ -23,7 +23,7 @@ I did it like this – roughly using the information in [this StackOverflow disc
     working_string = working_string.replace("  ", "_")
     working_string = working_string.replace(" ", "_")
 
-I found a better, easier-to-use solution to this morning on [a Reddit post](https://www.reddit.com/r/Python/comments/8wc2vi/5_rarely_mentioned_but_super_useful_packages_you/) in [/r/Python](https://www.reddit.com/r/Python).
+I found a better, easier-to-use way of doing this earlier this morning on [a Reddit post](https://www.reddit.com/r/Python/comments/8wc2vi/5_rarely_mentioned_but_super_useful_packages_you/) in [/r/Python](https://www.reddit.com/r/Python).
 
 It uses [Inflection](https://inflection.readthedocs.io/en/latest/) – a "string transformation library". Inflection does all sorts of things including `inflection.parameterize().` [Parameterize](https://inflection.readthedocs.io/en/latest/index.html#inflection.parameterize) "replace\[s\] special characters in a string so that it may be used as part of a 'pretty' URL."
 
@@ -66,7 +66,7 @@ Parameterize has the effect of:
    * A-Z
    * 0-9
    * a hyphen (-)
-   * an underscore(\_)
+   * an underscore(_)
 3. Ensuring there is never more than one separator in a row
 4. Removing separators from the start or end of the string
 5. Making the string lower case
