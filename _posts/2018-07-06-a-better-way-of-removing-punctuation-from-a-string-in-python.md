@@ -66,7 +66,7 @@ Parameterize has the effect of:
    * A-Z
    * 0-9
    * a hyphen (-)
-   * an underscore(_)
+   * an underscore(\_)
 3. Ensuring there is never more than one separator in a row
 4. Removing separators from the start or end of the string
 5. Making the string lower case
