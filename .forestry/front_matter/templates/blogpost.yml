@@ -13,7 +13,7 @@ fields:
   label: Layout
   name: layout
   default: post
-  hidden: false
+  hidden: true
   config:
     required: true
 pages:
