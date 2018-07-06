@@ -9,6 +9,13 @@ fields:
   type: text
   label: Title
   config: {}
+- type: text
+  label: Layout
+  name: layout
+  default: post
+  hidden: true
+  config:
+    required: true
 pages:
 - _posts/2018-07-06-a-better-way-of-removing-punctuation-from-a-string-in-python.md
 - _posts/2018-06-10-square-numbers-in-sacred-harp-song-numbers.md
