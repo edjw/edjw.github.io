@@ -60,7 +60,7 @@ This means I can now do the following which is a much nicer-to-read and nicer-to
 
 Parameterize has the effect of:
 
-1. [Replacing non-ASCII characters](https://inflection.readthedocs.io/en/latest/_modules/inflection.html#transliterate) with an ASCII approximation (using `inflection.transliterate()`
+1. [Replacing non-ASCII characters](https://inflection.readthedocs.io/en/latest/_modules/inflection.html#transliterate) with an ASCII approximation – using `inflection.transliterate()`
 2. [Replacing any character](https://inflection.readthedocs.io/en/latest/_modules/inflection.html#parameterize) with the separator if it isn't one of:
    * a-z
    * A-Z
