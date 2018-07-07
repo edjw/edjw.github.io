@@ -61,7 +61,8 @@ pre.highlight {
     position: fixed;
     top: 0;
     z-index: 1;
-    /* width: 100%; */
+    width: 100%;
+    left: 0;
     background-color: #f1f1f1;
   }
 
@@ -73,6 +74,6 @@ pre.highlight {
 
   .progress-bar {
     height: 8px;
-    background: #4caf50;
+    background: #2341C1;
     width: 0%;
   }
