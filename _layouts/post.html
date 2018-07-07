@@ -9,7 +9,7 @@ layout: default
 </div>
 <div class="mt-1">
   {% capture time %}{{ content | reading_time }}{% endcapture %}
-  <p>This article will take {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} to read.</p
+  <p>This article will take {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} to read.</p>
 </div>
 <div class="post-content mt-5 pt-2 border-top">
   {{ content }}
