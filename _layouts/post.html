@@ -8,8 +8,7 @@ layout: default
   <h5 class="post-date">{{ page.date | date_to_string }}</h5>
 </div>
 <div class="mt-1">
-{% capture time %}{{ content | reading_time }}{% endcapture %}
-  <p class="post-read-time">Reading time — <span>{{ time }}</span></p>
+  <p class="post-read-time">Reading time — <span> {{ content | reading_time }} </span></p>
 </div>
 <div class="post-content mt-5 pt-2 border-top">
   {{ content }}
