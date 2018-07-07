@@ -7,6 +7,10 @@ layout: default
 <div class="mt-1">
   <h5 class="post-date">{{ page.date | date_to_string }}</h5>
 </div>
+<div class="mt-1">
+  {% capture time %}{{ content | reading_time }}{% endcapture %}
+  <smal>{{ content | reading_time | pluralize: "minute" }}</small>
+</div>
 <div class="post-content mt-5 pt-2 border-top">
   {{ content }}
 </div>
