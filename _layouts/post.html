@@ -9,7 +9,7 @@ layout: default
 </div>
 <div class="mt-1">
   {% capture time %}{{ content | reading_time }}{% endcapture %}
-  <p class="post-read-time">Reading time — <span> {{{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} </span></p>
+  <p class="post-read-time">Reading time — <span> {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} </span></p>
 </div>
 <div class="post-content mt-5 pt-2 border-top">
   {{ content }}
