@@ -6,7 +6,8 @@ layout: default
 </div>
 <div class="mt-1">
   {% capture time %}{{ content | reading_time }}{% endcapture %}
-  <h5 class="post-date">{{ page.date | date_to_string }}</h5><span> — Reading time:<span> {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} </span></span>
+  <h5 class="post-date">{{ page.date | date_to_string }}</h5>
+  <p class="reading-time">Reading time:<span> {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} </span></p>
 </div>
 <div class="post-content mt-5 pt-2 border-top">
   {{ content }}
