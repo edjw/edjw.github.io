@@ -72,6 +72,7 @@ vertical-align: top
 }
 
 </style>
+<div class="js-scrollable">
 <table class="tg table-responsive">
 <tr>
 <th class="tg-9hbo">PARTY</th>
@@ -146,7 +147,7 @@ vertical-align: top
 <td class="tg-le8v">0</td>
 </tr>  
 </table>
-
+</div>
 ---
 
 1. Three Green candidates in Neville's Cross got more votes than the average Labour candidate. But only one Green candidate was elected whereas two Labour candidates were elected.
