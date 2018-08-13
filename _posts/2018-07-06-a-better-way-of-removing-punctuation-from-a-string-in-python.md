@@ -12,6 +12,7 @@ That final stage of saving as a useful filename meant taking the board game name
 I did it like this – roughly using the information in [this StackOverflow discussion](https://stackoverflow.com/questions/265960/best-way-to-strip-punctuation-from-a-string-in-python).
 
 <pre class="js-scrollable">
+
     from string import punctuation
     
     # making string lower case
@@ -33,6 +34,7 @@ It uses [Inflection](https://inflection.readthedocs.io/en/latest/) – a "string
 This means I can now do the following which is a much nicer-to-read and nicer-to-write solution.
 
 <pre class="js-scrollable">
+
     from inflection import parameterize
     
     # Example board game names with upper case, punctuation, and non-ASCII characters
