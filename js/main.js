@@ -1,3 +1,4 @@
+// Scroll Indicator across top of page
 if (document.getElementById("scroll_indicator")) {
     window.onscroll = function () {
         moveScrollIndicator()
@@ -10,3 +11,10 @@ if (document.getElementById("scroll_indicator")) {
         document.getElementById("scroll_indicator").style.width = scrolled + "%";
     }
 }
+
+
+// Suggest horizontal scrolling
+
+new ScrollHint('.js-scrollable', {
+  suggestiveShadow: true
+});
