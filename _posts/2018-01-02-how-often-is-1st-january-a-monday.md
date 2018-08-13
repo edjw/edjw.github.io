@@ -79,64 +79,65 @@ There's no change over time in the rate of X day of the week being 1st January. 
 
 # That bad, repetitive Python
 
-In case you want to work with this here's that bad, repetitive code I used. It's [also on Github.](https://github.com/edjw/how-often-is-1st-january-a-monday/)
+In case you want to work with this here's that bad, repetitive code I used. It's [also on Github](https://github.com/edjw/how-often-is-1st-january-a-monday/).
 
-<pre>
-from datetime import datetime
-from statistics import mean
-import plotly
-import plotly.graph_objs as go
+<pre class="js-scrollable">
 
-# year = int(datetime.today().strftime("%Y"))  # 2018 at the moment
-year = 9999  # the latest year you can use
+    from datetime import datetime
+    from statistics import mean
+    import plotly
+    import plotly.graph_objs as go
 
-
-def get_first_jan_weekdays(year):
-
-    mondays = []  # "2018, 2007, 2001"
-    tuesdays = []
-    wednesdays = []
-    thursdays = []
-    fridays = []
-    saturdays = []
-    sundays = []
-
-    while year >= 1:
-
-        day_of_week_first_jan = datetime(year, 1, 1).strftime("%A")
-
-        if day_of_week_first_jan == 'Monday':
-            mondays.append(year)
-        elif day_of_week_first_jan == 'Tuesday':
-            tuesdays.append(year)
-        elif day_of_week_first_jan == 'Wednesday':
-            wednesdays.append(year)
-        elif day_of_week_first_jan == 'Thursday':
-            thursdays.append(year)
-        elif day_of_week_first_jan == 'Friday':
-            fridays.append(year)
-        elif day_of_week_first_jan == 'Saturday':
-            saturdays.append(year)
-        elif day_of_week_first_jan == 'Sunday':
-            sundays.append(year)
-
-        year -= 1
-
-    return mondays, tuesdays, wednesdays, thursdays, fridays, saturdays, sundays
+    # year = int(datetime.today().strftime("%Y"))  # 2018 at the moment
+    year = 9999  # the latest year you can use
 
 
-def first_jans_over_time(mondays, tuesdays, wednesdays, thursdays, fridays, saturdays, sundays):
-    mondays_over_time = sorted(mondays)
-    tuesdays_over_time = sorted(tuesdays)
-    wednesdays_over_time = sorted(wednesdays)
-    thursdays_over_time = sorted(thursdays)
-    fridays_over_time = sorted(fridays)
-    saturdays_over_time = sorted(saturdays)
-    sundays_over_time = sorted(sundays)
+    def get_first_jan_weekdays(year):
 
-    return mondays_over_time, tuesdays_over_time, wednesdays_over_time, thursdays_over_time, fridays_over_time, saturdays_over_time, sundays_over_time
+        mondays = []  # "2018, 2007, 2001"
+        tuesdays = []
+        wednesdays = []
+        thursdays = []
+        fridays = []
+        saturdays = []
+        sundays = []
+
+        while year >= 1:
+
+            day_of_week_first_jan = datetime(year, 1, 1).strftime("%A")
+
+            if day_of_week_first_jan == 'Monday':
+                mondays.append(year)
+            elif day_of_week_first_jan == 'Tuesday':
+                tuesdays.append(year)
+            elif day_of_week_first_jan == 'Wednesday':
+                wednesdays.append(year)
+            elif day_of_week_first_jan == 'Thursday':
+                thursdays.append(year)
+            elif day_of_week_first_jan == 'Friday':
+                fridays.append(year)
+            elif day_of_week_first_jan == 'Saturday':
+                saturdays.append(year)
+            elif day_of_week_first_jan == 'Sunday':
+                sundays.append(year)
+
+            year -= 1
+
+        return mondays, tuesdays, wednesdays, thursdays, fridays, saturdays, sundays
 
 
+    def first_jans_over_time(mondays, tuesdays, wednesdays, thursdays, fridays, saturdays, sundays):
+        mondays_over_time = sorted(mondays)
+        tuesdays_over_time = sorted(tuesdays)
+        wednesdays_over_time = sorted(wednesdays)
+        thursdays_over_time = sorted(thursdays)
+        fridays_over_time = sorted(fridays)
+        saturdays_over_time = sorted(saturdays)
+        sundays_over_time = sorted(sundays)
+
+        return mondays_over_time, tuesdays_over_time, wednesdays_over_time, thursdays_over_time, fridays_over_time, saturdays_over_time, sundays_over_time
+
+</pre>
 def get_number_of_first_jan_weekdays(mondays, tuesdays, wednesdays, thursdays, fridays, saturdays, sundays):
     total_mondays = len(mondays)
     total_tuesdays = len(tuesdays)
