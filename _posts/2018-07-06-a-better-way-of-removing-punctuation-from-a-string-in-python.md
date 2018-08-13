@@ -11,7 +11,7 @@ That final stage of saving as a useful filename meant taking the board game name
 
 I did it like this – roughly using the information in [this StackOverflow discussion](https://stackoverflow.com/questions/265960/best-way-to-strip-punctuation-from-a-string-in-python).
 
-<div class="js-scrollable">
+<code class="js-scrollable">
 
     from string import punctuation
     
@@ -26,7 +26,7 @@ I did it like this – roughly using the information in [this StackOverflow disc
     working_string = working_string.replace("  ", "_")
     working_string = working_string.replace(" ", "_")
 
-</div>
+</code>
 
 I found a better, easier-to-use way of doing this earlier this morning on [a Reddit post](https://www.reddit.com/r/Python/comments/8wc2vi/5_rarely_mentioned_but_super_useful_packages_you/) in [/r/Python](https://www.reddit.com/r/Python).
 
@@ -34,7 +34,7 @@ It uses [Inflection](https://inflection.readthedocs.io/en/latest/) – a "string
 
 This means I can now do the following which is a much nicer-to-read and nicer-to-write solution.
 
-<div class="js-scrollable">
+<code class="js-scrollable">
 
     from inflection import parameterize
     
@@ -65,7 +65,7 @@ This means I can now do the following which is a much nicer-to-read and nicer-to
     aeon_s_end
     '''
 
-</div>
+</code>
 
 Parameterize mostly just uses some regular expressions but it's very useful. It has the effect of:
 
