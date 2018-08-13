@@ -9,7 +9,7 @@ I went and made a list of those numbers.
 
 <table>
 <tr>
-<th style="margin-right: 10px;">Square root</th>
+<th style="padding-right: 2rem;">Square root</th>
 <th>Song number</th>
 </tr>
 <tr>
