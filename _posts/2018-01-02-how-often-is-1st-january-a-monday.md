@@ -137,7 +137,6 @@ In case you want to work with this here's that bad, repetitive code I used. It's
 
         return mondays_over_time, tuesdays_over_time, wednesdays_over_time, thursdays_over_time, fridays_over_time, saturdays_over_time, sundays_over_time
 
-</pre>
 def get_number_of_first_jan_weekdays(mondays, tuesdays, wednesdays, thursdays, fridays, saturdays, sundays):
     total_mondays = len(mondays)
     total_tuesdays = len(tuesdays)
