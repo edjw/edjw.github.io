@@ -8,11 +8,11 @@ I've previously done some analysis involving songs from the Sacred Harp. Some [h
 
 One challenge in doing this analysis is having a machine-readable dataset of all songs to work with. The excellent [indexes on fasola.org](https://fasola.org/indexes/1991/) present the information for each individual song on a different page which is great but you can't easily analyse all the songs at once.
 
-To make future analysis easiser, I've prepared a single dataset of all the songs in the *The Sacred Harp, 1991 Edition* (Denson Revision) in both a `.CSV` spreadsheet and also in a `.JSON` file.
+To make future analysis easiser, I've prepared a single dataset of all the songs in the _The Sacred Harp, 1991 Edition_ (Denson Revision) in both a `.CSV` spreadsheet and also in a `.JSON` file.
 
-**Download the [.CSV spreadsheet](https://raw.githubusercontent.com/edjw/Sacred-Harp-datasets/master/sacred_harp_songs_data.csv)** (Right click on this link and click Save)
+**Download the** [**.CSV spreadsheet**](https://raw.githubusercontent.com/edjw/Sacred-Harp-datasets/master/sacred_harp_songs_data.csv) (Right click on this link and click Save or Download)
 
-**Download the [.JSON file](https://raw.githubusercontent.com/edjw/Sacred-Harp-datasets/master/sacred_harp_songs_data.json)** (Right click on this link and click Save)
+**Download the** [**.JSON file**](https://raw.githubusercontent.com/edjw/Sacred-Harp-datasets/master/sacred_harp_songs_data.json) (Right click on this link and click Save or Download)
 
 These data are available for every song in the book:
 
