@@ -16,7 +16,7 @@ To make future analysis easiser, I've prepared a single dataset of all the songs
 
 The files are [stored in a Github repository here](https://github.com/edjw/Sacred-Harp-datasets). (Don't worry if that bit doesn't make sense. You can still use the CSV and JSON files above.)
 
-These data are available for every song in the book:
+Where the data exists, these data are available:
 
 * song number
 * bare song number (ie. without the 't' or 'b' after the song number for top or bottom)
