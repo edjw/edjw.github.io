@@ -18,8 +18,8 @@ fields:
   config:
     required: true
 pages:
-- _posts/2018-10-09-sacred-harp-songs-that-are-also-http-status-codes.md
 - _posts/2018-10-08-a-dataset-for-sacred-harp-songs.md
+- _posts/2018-10-09-sacred-harp-songs-that-are-also-http-status-codes.md
 - _posts/2017-08-16-a-simplistic-post-on-remembering-your-country-s-history.md
 - _posts/2017-06-18-a-simplistic-post-on-brexit-utopianism.md
 - _posts/2018-05-04-winners-and-losers-in-the-city-of-durham-parish-council-election.md

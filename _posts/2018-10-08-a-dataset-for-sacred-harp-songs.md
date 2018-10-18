@@ -25,7 +25,8 @@ These data are available for every song in the book:
 * poetry date
 * poetic meter
 * lyrics
+* time signature
 
-I'm planning to add time signature data for all the songs.
+~~I'm planning to add time signature data for all the songs.~~ Time signatures are also included.
 
 [**Let me know**](mailto:mail@edjohnsonwilliams.co.uk) if you find mistakes in the data or if you have any ideas about how to make it better.
