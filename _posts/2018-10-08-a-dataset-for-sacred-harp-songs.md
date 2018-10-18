@@ -10,9 +10,13 @@ One challenge in doing this analysis is having a machine-readable dataset of all
 
 To make future analysis easiser, I've prepared a single dataset of all the songs in _The Sacred Harp, 1991 Edition_ (Denson Revision) in both a `.CSV` spreadsheet and also in a `.JSON` file.
 
+***
+
 **Download the** [**.CSV spreadsheet**](https://raw.githubusercontent.com/edjw/Sacred-Harp-datasets/master/sacred_harp_songs_data.csv) (Right click on this link and click Save or Download)
 
 **Download the** [**.JSON file**](https://raw.githubusercontent.com/edjw/Sacred-Harp-datasets/master/sacred_harp_songs_data.json) (Right click on this link and click Save or Download)
+
+***
 
 The files are [stored in a Github repository here](https://github.com/edjw/Sacred-Harp-datasets). (Don't worry if that bit doesn't make sense. You can still use the CSV and JSON files above.)
 
