@@ -1,6 +1,6 @@
 ---
 layout: post
-date: ''
+date: 2019-03-29 20:24:00 +0000
 title: Turning off targeted ads
 
 ---
