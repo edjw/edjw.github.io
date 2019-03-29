@@ -16,7 +16,7 @@ This is a personal project and I’ve just started telling people about it. If y
 
 Much bigger questions are out there about ad targeting.
 
-Is it reasonable to expect people to spend their time and energy doing these things below just to avoid having data about them used to target ads at them?
+For example, is it reasonable to expect people to spend their time and energy doing these things below just to avoid having data about them used to target ads at them?
 
 1. Find out/realise ad targeting is going on
 2. Find out that they can opt out of targeting at all
