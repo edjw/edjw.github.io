@@ -12,7 +12,7 @@ Some people would prefer that data about who they are and what they do isn’t u
 
 I’ve described what the site’s about on [the About page](https://stoptargetingads.me/about) so take a look there if you’re interested.
 
-This is a personal project and I’ve just started telling people about it. If you visit the site AT ALL (even if it’s just for a few seconds and then you close the tab), let me know. I’d love to talk to you about it. Either email me at hello@stoptargetingads.me or on Twitter at @_edjw
+This is a personal project and I’ve just started telling people about it. If you visit the site AT ALL (even if it’s just for a few seconds and then you close the tab), let me know. I’d love to talk to you about it. Either [email me at hello@stoptargetingads.me](mailto:hello@stoptargetingads.me) or [contact me on Twitter at @_edjw](https://twitter.com/_edjw).
 
 Much bigger questions are out there about ad targeting. Is it reasonable to expect people to spend their time and energy doing these things just to avoid having about them used to target ads at them?
 
@@ -21,8 +21,6 @@ Much bigger questions are out there about ad targeting. Is it reasonable to expe
 3. Find the way to opt out on each individual website, app, and service they use
 4. Actually opt out on each individual website, app, and service they use
 
-These are a lot of steps to take. The website helps with a lot of this but it still takes ordinary people way too much of their limited time and energy to do all this.
+These are a lot of steps to take. The website helps but it still takes ordinary people way too much of their limited time and energy to do all this.
 
 And that’s before we even get in to the worst offenders on user interface dark patterns that dissuade people from turning off the ad targeting (Yahoo/Oath, Facebook, and Twitter ...looking at you). I’ll write those up at some point.
-
- 
