@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-03-29 20:24:00 +0000
-title: Turning off targeted ads
+title: 'New website: Turning off targeted ads'
 
 ---
 I’ve made a website. It’s called [Stop Targeting Ads at Me](https://stoptargetingads.me).
