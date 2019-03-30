@@ -2,14 +2,24 @@
 layout: default
 ---
 {% include scrollbar_indicator.html %}
-<div class="mt-3">
-  <h2 class="post-title">{{ page.title }}</h2>
-</div>
-<div class="mt-1">
-  {% capture time %}{{ content | reading_time }}{% endcapture %}
-  <h5 class="post-date">{{ page.date | date_to_string }}</h5>
-  <p class="reading-time">Reading time:<span> {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} </span></p>
-</div>
-<div class="post-content mt-5 pt-2 border-top">
-  {{ content }}
-</div>
+<article class="h-entry">
+    <div class="mt-3">
+        <h2 class="post-title e-content p-name">{{ page.title }}</h2>
+    </div>
+    <div class="d-none">
+        <!-- h-entry things -->
+        <a class="u-url" href="{{ page.url }}">
+            <time class="dt-published">{{ page.date }}</time>
+        </a>
+        <a rel="author" class="p-author h-card" href="https://edjohnsonwilliams.co.uk">Ed Johnson-Williams</a>
+    </div>
+    <div class="mt-1">
+        {% capture time %}{{ content | reading_time }}{% endcapture %}
+        <h5 class="post-date">{{ page.date | date_to_string }}</h5>
+        <p class="reading-time">Reading time:<span> {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %}
+            </span></p>
+    </div>
+    <div class="post-content mt-5 pt-2 border-top">
+        {{ content }}
+    </div>
+</article>

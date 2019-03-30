@@ -9,7 +9,7 @@ I went and made a list of those numbers.
 
 <table>
 <tr>
-<th>Square root   </th>
+<th style="padding-right: 2rem;">Square root</th>
 <th>Song number</th>
 </tr>
 <tr>
@@ -96,6 +96,8 @@ I went and made a list of those numbers.
 
 And the Python code I used to find this…
 
+<pre class="js-scrollable">
+
     import math
     
     # All song numbers with the t (top) or b (bottom) taken off
@@ -118,3 +120,5 @@ And the Python code I used to find this…
     # 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 289, 324, 361, 400, 441, 484
     
     # 36t, 36b, 49t, 49b, 64, 81t, 81b, 100, 121, 144, 169, 196, 225t, 225b, 289, 324, 361, 400, 441, 484
+
+</pre>

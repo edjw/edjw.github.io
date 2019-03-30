@@ -15,6 +15,6 @@ They have memorials to the victims of Nazi Germany instead.
 
 People in Germany remember Germany's history without having monuments of the people responsible for the Holocaust.
 
-America can remember what happened before and during the Civil War without having<span style="font-size: 1rem;">&nbsp;statues of the leaders of the Confederacy.</span>
+America can remember what happened before and during the Civil War without having statues of the leaders of the Confederacy.
 
 They can have memorials to victims of slavery and those who died in the Civil War instead.

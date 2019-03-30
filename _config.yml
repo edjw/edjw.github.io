@@ -2,3 +2,5 @@ title: Ed Johnson-Williams
 markdown: kramdown
 plugins:
   - jekyll-feed
+include:
+  - _headers

@@ -94,6 +94,8 @@ Here's a full list of years where Western Easter Sunday is on April Fools' Day.
 
 ## The Code
 
+<pre class="js-scrollable">
+
 ```
 from dateutil.easter import easter
 
@@ -105,3 +107,4 @@ for year in range(1583, 4100):
     if date == "01" and month == "04":  
         print(year)
 ```
+</pre>
