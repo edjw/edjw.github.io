@@ -17,7 +17,7 @@ fields:
   config:
     required: true
 pages:
-- _posts/testing.md
+- _posts/2019-04-17-testing.md
 - _posts/2018-08-26-making-it-easy-to-get-thumbnails-of-youtube-videos.md
 - _posts/2019-03-29-turning-off-targeted-ads.md
 - _posts/2018-10-09-sacred-harp-songs-that-are-also-http-status-codes.md
